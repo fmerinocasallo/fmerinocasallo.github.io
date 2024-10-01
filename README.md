@@ -26,8 +26,6 @@ Actualmente estoy continuando mi formación en ingeniería de datos (PostgreSQL)
 
 > :sassy_man: Si quieres comprobar mis progresos en este nuevo aprendizaje, puedes consultar [mi repositorio público de GitHub](https://bit.ly/3Y5erHr) :octocat:
 
-Si quieres saber más sobre mí, no dudes en [ponerte en contacto conmigo](mailto:francisco.merinocasallo+githubio@gmail.com?subject=[GitHub%20Page]%20¡Hola!) :mailbox_with_mail:
-
 ***
 
 ## Sobre mí :man_scientist: :man_technologist: :wave:
@@ -50,7 +48,13 @@ Valoro muy positivamente trabajar en equipo :busts_in_silhouette:, colaborando :
 > 1. [Publicación sobre una metodología para automatizar la integración de modelos computacionales con datos experimentales](https://bit.ly/3ZC66w7)
 > 2. [Publicación sobre los actores involucrados en el proceso de migración celular](https://bit.ly/3zww1KQ).
 
-Intento tener siempre presente los objetivos estratégicos :chart_with_upwards_trend: sin que ello penalice la atención al detalle :mag: Para facilitar estos propósitos, me esfuerzo por mantener el código limpio :sponge: y sencillo :beginner:, y por documentar :pencil: no solo el código sino también los procesos y objetivos.
+Intento tener siempre presente los objetivos estratégicos :chart_with_upwards_trend: sin que ello penalice la atención al detalle :mag:
+
+> :sassy_man: Sirva como ejemplo de mi visión estratégica mi colaboración con socios industriales como [SigOpt](https://sigopt.org/) y del mundo académico como [Rubén Martínez Cantín (Profesor Titular en el Dpto. de Ingeniería Informática y Sistemas)](https://webdiis.unizar.es/~rmcantin/index.php) y [Yago Juste Lanas (colega investigador con amplia experiencia experimental)](https://www.linkedin.com/in/yagojustelanas/) durante mi doctorado en Ingeniería Biomédica. Uno de los frutos de dicha colaboración fue [esta publicación conjunta](https://bit.ly/3ZC66w7).
+
+> :sassy_man: Sirva como ejemplo de mi atención al detalle [esta pull request (PR) mía](https://bit.ly/4dd3HuU) en el repositorio oficial de la librería open source Darts para la predicción y detección de anomalías en series temporales.
+
+Para facilitar estos propósitos, me esfuerzo por mantener el código limpio :sponge: y sencillo :beginner:, y por documentar :pencil: no solo el código sino también los procesos y objetivos.
 
 > :sassy_man: Sirva como ejemplo de mis esfuerzos por mantener el código limpio y sencillo [este módulo Python para la gestión de datos relativos a los viajes (mensuales) de los taxis amarillos de NYC y su ingesta en un servidor PostgreSQL](https://bit.ly/3N7fBMd).
 
@@ -58,8 +62,18 @@ Intento tener siempre presente los objetivos estratégicos :chart_with_upwards_t
 > 1. [Cómo contenedorizar y segurizar un servidor PostgreSQL y pgAdmin](https://bit.ly/3N6ofKU)
 > 2. [Cómo utilizar infraestructura como código en Google Cloud Platform](https://bit.ly/4eHnXWA) 
 
-Me interesa todo lo que tenga que ver con formación en habilidades :lotus_position_man:, técnicas:weight_lifting_man: , tecnologías :hammer_and_wrench: y buenas prácticas :nerd_face:
+Me interesa todo lo que tenga que ver con formación en habilidades :writing_hand:, técnicas :construction_worker_man: , tecnologías :hammer_and_wrench: y buenas prácticas :nerd_face:
 
-***
+En lo personal, me esfuerzo por mantener una mente sana en un cuerpo sano. Para ello, sigo una dieta a base de [lecturas variadas](https://bit.ly/3N5FOuq), pódcasts :studio_microphone:, meditación :lotus_position_man: y ejercicios de cardio :running_man: :swimming_man: y fuerza :weight_lifting_man:
+
+Disfruto descubriendo nuevos lugares :national_park::cityscape: y culturas :japanese_ogre: :european_castle: con mi familia extendida. Confieso mantener una relación especial con Nueva York :statue_of_liberty: y los [Royal Parks de Londres](https://www.royalparks.org.uk/) :deciduous_tree: Todavía tengo pendiente un viaje a Corea del Sur :kr: y Japón :shinto_shrine:
+
+Mi pasión por aprender también se extiende al ámbito personal. Con ayuda de mi suegro, aspiro a convertirme en un manitas en el hogar :toolbox: Entre otras cosas, he arreglado un secador de pelo y un termo eléctrico de agua caliente al que se le había estropeado el termostato :thermometer: También he alicatado las paredes del baño :bathtub: de mi casa y cambiado el suelo del salón :couch_and_lamp: de casa de mis padres justo a tiempo para las navidades.
+
+De pequeño acompañaba con frecuencia a mi abuelo materno, ingeniero agrónomo de profesión, a una finca de nogales que tenía en Daroca, un pequeño municipio dentro del conocido como [Triángulo de hielo o Triángulo del frío](https://www.eltiempo.es/noticias/el-triangulo-del-frio-esta-en-espana-lo-conoces). Es por él y por mis tíos, los tres ingenieros agrónomos como su padre, que también me interesa la agricultura :seedling::ear_of_rice: Hace años que no recojo nueces en Daroca, pero el año pasado recogí olivas en la finca de olivos :olive: que tienen los padres de una amiga en Ontinyent.
+
+Me apasiona aprender. De cualquier cosa. Por eso trabajar con personas me gusta tanto; cada una tiene su historia y su experiencia, y puedo aprender algo (o muchas cosas) de todas ellas.
+
+Si quieres saber más sobre mí, no dudes en [ponerte en contacto conmigo](mailto:francisco.merinocasallo+githubio@gmail.com?subject=[GitHub%20Page]%20¡Hola!) :mailbox_with_mail:
 
 [^1]: No he dejado de montar sets de LEGO siendo adulto :shushing_face:
