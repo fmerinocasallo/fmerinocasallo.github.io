@@ -1,20 +1,16 @@
-# Francisco Merino-Casallo
+![Foto de Francisco Merino-Casallo](images/profile-circle-small.png){:style="display:block; margin-left:auto; margin-right:auto"}
 
-![Foto de Francisco Merino-Casallo](images/profile-circle-small.png){:.centered}
-
-## Quién soy, de dónde vengo y a dónde voy
-
-¡Hola! :grinning:
+¡Hola! :grinning: :wave:
 
 Me llamo Fran y soy de Zaragoza, aunque el confinamiento me pilló de visita en la terreta valenciana y aquí sigo, varios años después, por cuestiones del corazón :heart:
 
-Cuando era pequeño empecé construyendo sets de LEGO :bricks: en el mundo real y unos años más tarde, durante mi adolescencia, di el salto al mundo digital gracias a la informática :computer: 
+# De dónde vengo, adónde voy
+
+Cuando era pequeño empecé construyendo sets de LEGO en el mundo real :building_construction: y unos años más tarde, durante mi adolescencia, di el salto al mundo digital gracias a la informática :computer: 
 
 Lo que empezaron siendo aficiones de niño [^1] y adolescente dieron lugar a una licenciatura en Ingeniería Informática :desktop_computer:
 
 Tras licenciarme, la biología :test_tube:, otro gran interés durante mi adolescencia, me guió al campo de la bioinformática y más tarde a un doctorado en Ingeniería Biomédica.
-
-Probablemente el hecho de que mis padres, mi hermana pequeña y mi pareja sean médicos :stethoscope: también favoreciese mi predisposición a estudiar los procesos y sistemas relacionados con la vida durante ocho años :stuck_out_tongue:
 
 Los dos primeros años de mi carrera profesional los dediqué a desarrollar procesos para el análisis masivo de datos genéticos :dna: y la identificación de mutaciones que aumentan la susceptibilidad o predisposición a padecer ciertas enfermedades.
 
@@ -26,9 +22,7 @@ Actualmente estoy continuando mi formación en ingeniería de datos (PostgreSQL)
 
 > :sassy_man: Si quieres comprobar mis progresos en este nuevo aprendizaje, puedes consultar [mi repositorio público de GitHub](https://bit.ly/3Y5erHr) :octocat:
 
-***
-
-## Sobre mí :man_scientist: :man_technologist: :wave:
+# Sobre mí :man_scientist: :man_technologist:
 
 Mantengo un enfoque basado en el aprendizaje y la mejora continua. He disfrutado tanto en el rol de mentor :man_teacher: como en el aprendiz :man_student:. 
 
@@ -71,6 +65,8 @@ Disfruto descubriendo nuevos lugares :national_park::cityscape: y culturas :japa
 Mi pasión por aprender también se extiende al ámbito personal. Con ayuda de mi suegro, aspiro a convertirme en un manitas en el hogar :toolbox: Entre otras cosas, he arreglado un secador de pelo y un termo eléctrico de agua caliente al que se le había estropeado el termostato :thermometer: También he alicatado las paredes del baño :bathtub: de mi casa y cambiado el suelo del salón :couch_and_lamp: de casa de mis padres justo a tiempo para las navidades.
 
 De pequeño acompañaba con frecuencia a mi abuelo materno, ingeniero agrónomo de profesión, a una finca de nogales que tenía en Daroca, un pequeño municipio dentro del conocido como [Triángulo de hielo o Triángulo del frío](https://www.eltiempo.es/noticias/el-triangulo-del-frio-esta-en-espana-lo-conoces). Es por él y por mis tíos, los tres ingenieros agrónomos como su padre, que también me interesa la agricultura :seedling::ear_of_rice: Hace años que no recojo nueces en Daroca, pero el año pasado recogí olivas en la finca de olivos :olive: que tienen los padres de una amiga en Ontinyent.
+
+Probablemente el hecho de que mis padres, mi hermana pequeña y mi pareja sean médicos :stethoscope: también favoreciese mi predisposición a estudiar los procesos y sistemas relacionados con la vida durante ocho años :stuck_out_tongue:
 
 Me apasiona aprender. De cualquier cosa. Por eso trabajar con personas me gusta tanto; cada una tiene su historia y su experiencia, y puedo aprender algo (o muchas cosas) de todas ellas.
 
