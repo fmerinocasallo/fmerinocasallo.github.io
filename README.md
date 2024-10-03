@@ -36,21 +36,21 @@ Mantengo un enfoque basado en el aprendizaje :open_book::memo::man_scientist: y 
 
 > :sassy_man: Si quieres constatar cómo pasé de no saber absolutamente nada sobre el análisis de secuencias temporales a colaborar en el desarrollo de Darts, una de las librerías open source más utilizadas para predicción y detección de anomalías en series temporales, puedes consultar [este enlace](https://bit.ly/4dd3HuU).
 
-Me gusta trabajar con personas, cada una con su historia y su experiencia :bust_in_silhouette: De todas puedo aprender algo (o muchas cosas) :100:
+Me gusta trabajar con personas, cada una con una historia y experiencia únicas :bust_in_silhouette: De todas puedo aprender algo (o muchas cosas) :100:
+
+> :sassy_man: A lo largo de mi carrera profesional, he disfrutado colaborando con personas con historias y experiencias únicas como [Elvira Mayordomo](http://webdiis.unizar.es/~elvira/), [Jorge Álvarez Jarreta](https://www.linkedin.com/in/jorge-%C3%A1lvarez-jarreta-95a6162a/), [José Manuel García Aznar](https://m2be.unizar.es/people/jmgaraz/), [Mª José Gómez Benito](https://m2be.unizar.es/people/mjose-gomez-benito/), [Fabian Spill](https://www.linkedin.com/in/fabian-spill-37504250/), [Cristina del Amo](https://www.linkedin.com/in/cristinadelamomateos/), [Ismael González Valverde](https://www.linkedin.com/in/ismael-gonzalez-valverde/), [Gabriele Nasello](https://www.linkedin.com/in/gnasello), [Silvia Hervás Raluy](https://www.linkedin.com/in/silviahervasraluy/), [Diego Saínz de Mena](https://www.linkedin.com/in/diego-sainz-de-mena), [Inês Gonçalves](https://www.linkedin.com/in/inesggoncalves/), [Eduardo Sánchez Burillo](https://www.linkedin.com/in/eduardo-s%C3%A1nchez-burillo-2638b8194/), [Javier Briz](https://www.linkedin.com/in/javier-briz-3a7a0a23/) y [Rafael Redrado](https://www.linkedin.com/in/rafaelredrado), entre muchos otros. Todos me regalaron grandes aprendizajes :orange_heart:
 
 Valoro muy positivamente trabajar en equipo :busts_in_silhouette:, colaborando :handshake: y aprendiendo de mis compañeros con el objetivo de lograr metas comunes :dart:
 
->  :sassy_man: Sirva como ejemplo de mi aprecio por el trabajo en equipo y la colaboración con compañeros con experiencias y habilidades complementarias dos de los proyectos de investigación que desarrollé durante mi doctorado:
+> :sassy_man: Sirva como ejemplo de mi aprecio por el trabajo en equipo y la colaboración con compañeros con experiencias y habilidades complementarias dos de los proyectos de investigación que desarrollé durante mi doctorado:
 > 1. [Publicación sobre una metodología para automatizar la integración de modelos computacionales con datos experimentales](https://bit.ly/3ZC66w7).
 > 2. [Publicación sobre los actores involucrados en el proceso de migración celular](https://bit.ly/3zww1KQ).
-> 
-> A lo largo de mi carrera profesional, he disfrutado colaborando con personas con historias y experiencias únicas como [Elvira Mayordomo](http://webdiis.unizar.es/~elvira/), [Jorge Álvarez Jarreta](https://www.linkedin.com/in/jorge-%C3%A1lvarez-jarreta-95a6162a/), [José Manuel García Aznar](https://m2be.unizar.es/people/jmgaraz/), [Mª José Gómez Benito](https://m2be.unizar.es/people/mjose-gomez-benito/), [Fabian Spill](https://www.linkedin.com/in/fabian-spill-37504250/), [Cristina del Amo](https://www.linkedin.com/in/cristinadelamomateos/), [Ismael González Valverde](https://www.linkedin.com/in/ismael-gonzalez-valverde/), [Gabriele Nasello](https://www.linkedin.com/in/gnasello), [Silvia Hervás Raluy](https://www.linkedin.com/in/silviahervasraluy/), [Diego Saínz de Mena](https://www.linkedin.com/in/diego-sainz-de-mena), [Inês Gonçalves](https://www.linkedin.com/in/inesggoncalves/), [Javier Briz](https://www.linkedin.com/in/javier-briz-3a7a0a23/) y [Rafael Redrado](https://www.linkedin.com/in/rafaelredrado), entre muchos otros :orange_heart:
 
 He disfrutado tanto en el rol de mentor :man_teacher: como en el aprendiz :man_student:
 
->  :sassy_man: Sirvan como ejemplo de mi experiencia como mentor los Trabajos Fin de Grado de [Alejandro Modrego](https://bit.ly/4eAGmnV) y [Benjamín Real Ruiz](https://bit.ly/4eh4b4j) que co-dirigí durante mi doctorado.
+> :sassy_man: Sirvan como ejemplo de mi experiencia como mentor los Trabajos Fin de Grado de [Alejandro Modrego](https://bit.ly/4eAGmnV) y [Benjamín Real Ruiz](https://bit.ly/4eh4b4j) que co-dirigí durante mi doctorado.
 
->  :sassy_man: Sirva como muestra de mi experiencia como aprendiz y mi capacidad para convertirme en experto en una materia (en este caso, el modelado y la predicción del comportamiento de sistemas biológicos complejos) [mi tesis doctoral](https://bit.ly/3ZvdCZz).
+> :sassy_man: Sirva como muestra de mi experiencia como aprendiz y mi capacidad para convertirme en experto en una materia (en este caso, el modelado y la predicción del comportamiento de sistemas biológicos complejos) [mi tesis doctoral](https://bit.ly/3ZvdCZz).
 
 Intento tener siempre presente los objetivos estratégicos :chart_with_upwards_trend: sin que ello penalice la atención al detalle :mag:
 
@@ -87,4 +87,4 @@ Si quieres saber más sobre mí, no dudes en [ponerte en contacto conmigo](mailt
 
 [^1]: No he dejado de montar sets de LEGO siendo adulto :shushing_face:
 [^2]: Fue en [Bushy Park](https://www.royalparks.org.uk/visit/parks/bushy-park) donde le pedí matrimonio :kneeling_man::ring: a mi pareja.
-[^3]:  Fue durante un paseo por [Central Park](https://www.centralparknyc.org/) donde me picó el gusanillo del [pajareo](https://es.wikipedia.org/wiki/Observaci%C3%B3n_de_aves) :bird::telescope:
+[^3]: Fue durante un paseo por [Central Park](https://www.centralparknyc.org/) donde me picó el gusanillo del [pajareo](https://es.wikipedia.org/wiki/Observaci%C3%B3n_de_aves) :bird::telescope:
