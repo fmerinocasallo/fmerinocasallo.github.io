@@ -10,7 +10,7 @@ Busco la excelencia creando procesos eficientes :bullettrain_front:, eficaces :a
 
 # De dónde vengo, adónde voy
 
-Cuando era pequeño empecé construyendo sets de LEGO en el mundo real y unos años más tarde, durante mi adolescencia, di el salto al mundo digital gracias a la informática :computer: 
+Cuando era pequeño empecé construyendo sets de LEGO en el mundo real y unos años más tarde, durante mi adolescencia, di el salto al mundo digital gracias a la informática de la mano de un [iMac G3](https://es.wikipedia.org/wiki/IMac_G3) :desktop_computer:
 
 Lo que empezaron siendo aficiones de niño [^1] y adolescente dieron lugar a una licenciatura en Ingeniería Informática :mortar_board:
 
@@ -60,7 +60,7 @@ Intento tener siempre presente los objetivos estratégicos :chart_with_upwards_t
 > 
 > Fruto de dicha colaboración fue [esta publicación conjunta](https://bit.ly/3ZC66w7) durante mi doctorado en Ingeniería Biomédica.
 
-> :sassy_man: Sirva como ejemplo de mi atención al detalle [esta pull request (PR) mía](https://bit.ly/4dd3HuU) en el repositorio oficial de la librería open source [Darts](https://unit8co.github.io/darts/) para la predicción y detección de anomalías en series temporales.
+> :sassy_man: Sirva como ejemplo de mi atención al detalle [este informe reportando un bug](https://bit.ly/4eQwgiS) :bug: en el repositorio oficial de la librería open source [Darts](https://unit8co.github.io/darts/) para la predicción y detección de anomalías en series temporales. Bug que yo mismo resolví en [este pull request](https://bit.ly/4dd3HuU).
 
 Para facilitar estos propósitos, me esfuerzo por mantener el código limpio :sponge: y sencillo :beginner:, y por documentar :pencil: no solo el código sino también los procesos y objetivos.
 
