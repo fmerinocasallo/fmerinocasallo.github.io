@@ -18,11 +18,11 @@ Busco la excelencia creando procesos no solo eficientes [^1] :bullettrain_front:
 
 Cuando era pequeño empecé construyendo sets de LEGO en el mundo real y unos años más tarde, durante mi adolescencia, di el salto al mundo digital gracias a la informática de la mano de un [iMac G3](https://es.wikipedia.org/wiki/IMac_G3) (el primer lanzamiento importante de un producto de Apple bajo la dirección de Steve Jobs tras su regreso a la empresa que cofundó) :desktop_computer:
 
-Lo que empezaron siendo aficiones de niño [^4] y adolescente dieron lugar a una licenciatura en Ingeniería Informática :mortar_board:
+Lo que empezaron siendo aficiones de un niño [^4] y adolescente dieron lugar a una licenciatura en Ingeniería Informática :mortar_board:
 
 Los dos primeros años de mi carrera profesional los dediqué a desarrollar procesos para el análisis masivo de datos genéticos :dna: y la identificación de mutaciones que aumentan la susceptibilidad o predisposición a padecer ciertas enfermedades.
 
-En 2022 defendí mi tesis doctoral :mortar_board: en Ingeniería Biomédica, centrada en el modelado y la predicción del comportamiento de sistemas biológicos complejos :crystal_ball::microscope: [Durante mi doctorado, implementé una metodología autónoma basada en técnicas de optimización Bayesiana que facilitaba la integración estudios teóricos con datos experimentales](https://bit.ly/3YWEfpp). Dicha integración es clave si queremos seguir desentrañando los misterios de la vida y el universo (:four::two:). Además, [esta metodología me permitió automatizar el proceso de calibrado de los modelos computacionales que estaba desarrollando en base a datos experimentales recopilados por mis colegas del laboratorio de mecanobiología](https://bit.ly/3UHVPuY) :desktop_computer::arrows_counterclockwise::microscope:
+En 2022 defendí [mi tesis doctoral](https://bit.ly/3ZvdCZz) :mortar_board: en Ingeniería Biomédica, centrada en el modelado y la predicción del comportamiento de sistemas biológicos complejos :crystal_ball::microscope: [Durante mi doctorado, implementé una metodología autónoma basada en técnicas de optimización Bayesiana que facilitaba la integración estudios teóricos con datos experimentales](https://bit.ly/3YWEfpp). Dicha integración es clave si queremos seguir desentrañando los misterios de la vida y el universo (:four::two:). Además, [esta metodología me permitió automatizar el proceso de calibrado de los modelos computacionales que estaba desarrollando en base a datos experimentales recopilados por mis colegas del laboratorio de mecanobiología](https://bit.ly/3UHVPuY) :desktop_computer::arrows_counterclockwise::microscope:
 
 En 2023 inicié mi transición a la industria de la mano de [Caphunters](https://caphunters.es/) :billed_cap:, una empresa del sector retail interesada en predecir la demanda futura de sus productos :crystal_ball::chart_with_upwards_trend: En este proyecto pude perfeccionar mis habilidades en el análisis de series temporales utilizando modelos estadísticos y basados en inteligencia artificial.
 
@@ -62,15 +62,15 @@ Intento tener siempre presente los objetivos estratégicos :chart_with_upwards_t
 
 > :sassy_man: Sirva como ejemplo de mi visión estratégica mi colaboración con:
 > 1. Socios industriales como [SigOpt](https://sigopt.org/) (plataforma de optimización de modelos basados en inteligencia artificial a escala, [adquirida en 2020 por Intel](https://www.intel.com/content/www/us/en/newsroom/news/sigopt-to-scale-ai-productivity-performance.html)).
-> 2. Compañeros del mundo académico como [Rubén Martínez Cantín (experto en aprendizaje automático y optimización Bayesiana)](https://webdiis.unizar.es/~rmcantin/index.php) y [Yago Juste Lanas (biotecnólogo e investigador con amplia experiencia en el laboratorio de mecanobiología)](https://www.linkedin.com/in/yagojustelanas/).
+> 2. Compañeros del mundo académico como [Rubén Martínez Cantín](https://webdiis.unizar.es/~rmcantin/index.php) (experto en aprendizaje automático y optimización Bayesiana) y [Yago Juste Lanas](https://www.linkedin.com/in/yagojustelanas/) (biotecnólogo e investigador con amplia experiencia en el laboratorio de mecanobiología).
 > 
-> Fruto de dicha colaboración fue [esta publicación conjunta](https://bit.ly/3ZC66w7) durante mi doctorado en Ingeniería Biomédica.
+> Uno de los resultados de de dicha colaboración fue [esta publicación conjunta](https://bit.ly/3ZC66w7).
 
 > :sassy_man: Sirva como ejemplo de mi atención al detalle [este informe reportando un bug](https://bit.ly/4eQwgiS) :bug: en el repositorio oficial de la librería open source [Darts](https://unit8co.github.io/darts/) para la predicción y detección de anomalías en series temporales. Bug que yo mismo resolví en [este pull request](https://bit.ly/4dd3HuU).
 
-Para cumplir estos propósitos, me esfuerzo por mantener el código limpio :sponge: y sencillo :beginner:, y por documentar :pencil: no solo el código sino también los procesos y objetivos.
+Para cumplir estos propósitos, me esfuerzo por producir código limpio :sponge: y sencillo :beginner:, y por documentar :pencil: no solo el código sino también los procesos y objetivos.
 
-> :sassy_man: Sirva como ejemplo de mis esfuerzos por mantener el código limpio y sencillo [este módulo Python para la gestión de datos relativos a los viajes (mensuales) de los taxis amarillos de NYC y su ingesta en un servidor PostgreSQL](https://bit.ly/3N7fBMd).
+> :sassy_man: Sirva como ejemplo de mis esfuerzos por producir código limpio y sencillo [este módulo Python para la gestión de datos relativos a los viajes (mensuales) de los taxis amarillos de NYC y su ingesta en un servidor PostgreSQL](https://bit.ly/3N7fBMd).
 
 > :sassy_man: Sirvan como ejemplo de mis esfuerzos por documentar no solo el código los siguientes informes:
 > 1. [Cómo contenedorizar y segurizar un servidor PostgreSQL y pgAdmin](https://bit.ly/3N6ofKU).
@@ -82,7 +82,7 @@ Como una persona con una mentalidad de crecimiento, busco oportunidades para seg
 
 En lo personal, me esfuerzo por mantener una mente sana en un cuerpo sano. Para ello, sigo una dieta a base de [lecturas](https://bit.ly/3N5FOuq) :books: y pódcasts :studio_microphone: variados, meditación :lotus_position_man:, y entrenamiento de cardio :running_man: :swimming_man: y fuerza :weight_lifting_man:
 
-Disfruto descubriendo nuevos lugares :national_park::cityscape: y culturas :japanese_ogre: :european_castle: con mi familia (la original y la elegida :heart:). Recuerdo con gran cariño los viajes por Europa :fr::belgium::it::de::scotland::norway: durante las vacaciones de verano, muchos de ellos en coche :minibus: Confieso mantener una relación especial con los [Royal Parks de Londres](https://www.royalparks.org.uk/) [^5] :deer::deciduous_tree: y Nueva York :taxi::statue_of_liberty: [^6] Ya he empezado a planificar un viaje a Corea del Sur :kr: y Japón :jp::shinto_shrine:, y tengo muchos otros todavía pendientes.
+Disfruto descubriendo nuevos lugares :national_park::cityscape: y culturas :japanese_ogre: :european_castle: con mi familia (la original y la elegida :heart:). Recuerdo con gran cariño los viajes por Europa :fr::belgium::it::de::scotland::norway: durante las vacaciones de verano con mi familia, muchos de ellos en coche :minibus: Confieso mantener una relación especial con los [Royal Parks de Londres](https://www.royalparks.org.uk/) [^5] :deer::deciduous_tree: y Nueva York :taxi::statue_of_liberty: [^6] Ya he empezado a planificar un viaje a Corea del Sur :kr: y Japón :jp::shinto_shrine:, y tengo muchos otros todavía pendientes.
 
 Mi pasión por aprender de (casi) cualquier cosa también se extiende al ámbito personal:
 
