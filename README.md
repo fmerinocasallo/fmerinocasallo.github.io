@@ -6,13 +6,13 @@ Me llamo Fran y soy de Zaragoza :city_sunrise:, aunque el confinamiento me pill�
 
 ***
 
-Busco la excelencia creando procesos eficientes :bullettrain_front:, eficaces :airplane: y efectivos :ship: Mi propósito es transformar los datos :microscope::bar_chart: en información accionable :pill::bulb: que permita llevar vidas más saludables y sostenibles :camping: Para ello, aprovecho la experiencia adquirida en I+D (bioinformática :dna:, biología computacional :microscope::desktop_computer:), ingeniería informática (automatización :robot:, optimización :stopwatch:, [entornos de alto rendimiento](https://es.wikipedia.org/wiki/Computaci%C3%B3n_de_alto_rendimiento) :rocket:) y el análisis de datos :bar_chart: (9+ años de experiencia) mientras perfecciono mis habilidades en arquitectura de software :building_construction:, ciencia e ingeniería de datos :abacus::file_cabinet:, [DevOps](https://es.wikipedia.org/wiki/DevOps) :hammer_and_wrench: y la [computación en la nube](https://es.wikipedia.org/wiki/Computaci%C3%B3n_en_la_nube) :cloud:
+Busco la excelencia creando procesos no solo eficientes [^1] :bullettrain_front: o eficaces [^2] :airplane: sino efectivos [^3] :ship: Mi propósito es transformar los datos :microscope::bar_chart: en información accionable :pill::bulb: que permita llevar vidas más saludables y sostenibles :camping: Para ello, aprovecho la experiencia adquirida en I+D (bioinformática :dna:, biología computacional :microscope::desktop_computer:), ingeniería informática (automatización :robot:, optimización :stopwatch:, [entornos de alto rendimiento](https://es.wikipedia.org/wiki/Computaci%C3%B3n_de_alto_rendimiento) :rocket:) y el análisis de datos :bar_chart: (9+ años de experiencia) mientras perfecciono mis habilidades en arquitectura de software :building_construction:, ciencia e ingeniería de datos :abacus::file_cabinet:, [DevOps](https://es.wikipedia.org/wiki/DevOps) :hammer_and_wrench: y la [computación en la nube](https://es.wikipedia.org/wiki/Computaci%C3%B3n_en_la_nube) :cloud:
 
 # De dónde vengo y adónde voy :rewind: :fast_forward:
 
 Cuando era pequeño empecé construyendo sets de LEGO en el mundo real y unos años más tarde, durante mi adolescencia, di el salto al mundo digital gracias a la informática de la mano de un [iMac G3](https://es.wikipedia.org/wiki/IMac_G3) (el primer lanzamiento importante de un producto de Apple bajo la dirección de Steve Jobs tras su regreso a la empresa que cofundó) :desktop_computer:
 
-Lo que empezaron siendo aficiones de niño [^1] y adolescente dieron lugar a una licenciatura en Ingeniería Informática :mortar_board:
+Lo que empezaron siendo aficiones de niño [^4] y adolescente dieron lugar a una licenciatura en Ingeniería Informática :mortar_board:
 
 Los dos primeros años de mi carrera profesional los dediqué a desarrollar procesos para el análisis masivo de datos genéticos :dna: y la identificación de mutaciones que aumentan la susceptibilidad o predisposición a padecer ciertas enfermedades.
 
@@ -76,13 +76,7 @@ Como una persona con una mentalidad de crecimiento, busco oportunidades para seg
 
 En lo personal, me esfuerzo por mantener una mente sana en un cuerpo sano. Para ello, sigo una dieta a base de [lecturas](https://bit.ly/3N5FOuq) :books: y pódcasts :studio_microphone: variados, meditación :lotus_position_man:, y entrenamiento de cardio :running_man: :swimming_man: y fuerza :weight_lifting_man:
 
-Disfruto descubriendo nuevos lugares :national_park::cityscape: y culturas :japanese_ogre: :european_castle: con mi familia (la original y la elegida :heart:). Recuerdo con gran cariño los viajes por Europa :fr::belgium::it::de::scotland::norway: durante las vacaciones de verano, muchos de ellos en coche :minibus: Confieso mantener una relación especial con los [Royal Parks de Londres](https://www.royalparks.org.uk/) [^2] :deer::deciduous_tree: y Nueva York :taxi::statue_of_liberty: [^3] Ya he empezado a planificar un viaje a Corea del Sur :kr: y Japón :jp::shinto_shrine:, y tengo muchos otros todavía pendientes.
-
-***
-
-En lo personal, me esfuerzo por mantener una mente sana en un cuerpo sano. Para ello, sigo una dieta a base de [lecturas variadas](https://bit.ly/3N5FOuq) :books:, pódcasts :studio_microphone:, meditación :lotus_position_man: y ejercicios de cardio :running_man: :swimming_man: y fuerza :weight_lifting_man:
-
-Disfruto descubriendo nuevos lugares :national_park::cityscape: y culturas :japanese_ogre: :european_castle: con mi familia (la original y la elegida :heart:). Recuerdo con gran cariño los viajes por Europa :fr::belgium::it::de::scotland::norway: durante las vacaciones de verano, muchos de ellos en coche :minibus: Confieso mantener una relación especial con los [Royal Parks de Londres](https://www.royalparks.org.uk/) [^2] :deer::deciduous_tree: y Nueva York :taxi::statue_of_liberty: [^3] Y todavía tengo pendiente viajar a Corea del Sur :kr: y Japón :jp::shinto_shrine:, entre muchos otros.
+Disfruto descubriendo nuevos lugares :national_park::cityscape: y culturas :japanese_ogre: :european_castle: con mi familia (la original y la elegida :heart:). Recuerdo con gran cariño los viajes por Europa :fr::belgium::it::de::scotland::norway: durante las vacaciones de verano, muchos de ellos en coche :minibus: Confieso mantener una relación especial con los [Royal Parks de Londres](https://www.royalparks.org.uk/) [^5] :deer::deciduous_tree: y Nueva York :taxi::statue_of_liberty: [^6] Ya he empezado a planificar un viaje a Corea del Sur :kr: y Japón :jp::shinto_shrine:, y tengo muchos otros todavía pendientes.
 
 Mi pasión por aprender de (casi) cualquier cosa también se extiende al ámbito personal:
 
@@ -91,6 +85,12 @@ Mi pasión por aprender de (casi) cualquier cosa también se extiende al ámbito
 
 Si quieres saber más sobre mí, no dudes en [ponerte en contacto conmigo](mailto:francisco.merinocasallo+githubio@gmail.com?subject=[GitHub%20Page]%20¡Hola!) :mailbox_with_mail:
 
-[^1]: No he dejado de montar sets de LEGO siendo adulto :shushing_face:
-[^2]: Fue en [Bushy Park](https://www.royalparks.org.uk/visit/parks/bushy-park) donde le pedí matrimonio :kneeling_man::ring: a mi pareja.
-[^3]: Fue durante un paseo por [Central Park](https://www.centralparknyc.org/) donde me picó el gusanillo del [pajareo](https://es.wikipedia.org/wiki/Observaci%C3%B3n_de_aves) :bird::telescope:
+***
+***
+
+[^1]: Los procesos eficientes se centran en **cómo** hacer el trabajo y, por tanto, son aquellos que hacen un uso de los recursos óptimo.
+[^2]: Los procesos eficaces se centran en **qué** cosas se hacen y, por tanto, son aquellos que hacen el trabajo deseado.
+[^3]: Los procesos efectivos se centran en **cómo** hacer el trabajo y en **qué** cosas se hacen y, por lo tanto, hacen el trabajo deseado haciendo un uso de los recursos óptimo.
+[^4]: No he dejado de montar sets de LEGO siendo adulto :shushing_face:
+[^5]: Fue en [Bushy Park](https://www.royalparks.org.uk/visit/parks/bushy-park) donde le pedí matrimonio :kneeling_man::ring: a mi pareja.
+[^6]: Fue durante un paseo por [Central Park](https://www.centralparknyc.org/) donde me picó el gusanillo del [pajareo](https://es.wikipedia.org/wiki/Observaci%C3%B3n_de_aves) :bird::telescope:
