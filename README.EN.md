@@ -12,7 +12,7 @@ My name is Fran and I am from Zaragoza :city_sunrise:, although the COVID-19 loc
 
 ***
 
-I am an excellence seeker and builder of efficient :bullettrain_front:, effective :airplane: and effective :ship: processes. I aim to transform data :microscope::thought_balloon: into actionable insights :pill::bulb: for healthier and more sustainable lives :camping: I leverage my acquired experience in R&D (bioinformatics :dna:, computational biology :microscope::desktop_computer:), computer engineering (automation :robot:, optimization :stopwatch:, [high-performance environments](https://en.wikipedia.org/wiki/High-performance_computing) :rocket:) and data analysis :bar_chart: (9+ years of experience) while honing my skills in software architecture :building_construction:, data science and engineering :abacus::file_cabinet:, [DevOps](https://en.wikipedia.org/wiki/DevOps) :hammer_and_wrench: and [cloud computing](https://en.wikipedia.org/wiki/Cloud_computing) :cloud:
+I am an excellence seeker and builder of processes that deliver the desired output :bullettrain_front: **and** make an optimal use of the available resources :airplane: **at the same time** :ship: I aim to transform data :microscope::thought_balloon: into actionable insights :pill::bulb: for healthier and more sustainable lives :camping: I leverage my acquired experience in R&D (bioinformatics :dna:, computational biology :microscope::desktop_computer:), computer engineering (automation :robot:, optimization :stopwatch:, [high-performance environments](https://en.wikipedia.org/wiki/High-performance_computing) :rocket:) and data analysis :bar_chart: (9+ years of experience) while honing my skills in software architecture :building_construction:, data science and engineering :abacus::file_cabinet:, [DevOps](https://en.wikipedia.org/wiki/DevOps) :hammer_and_wrench: and [cloud computing](https://en.wikipedia.org/wiki/Cloud_computing) :cloud:
 
 # Where I come from, where I'm going :rewind: :fast_forward:
 
@@ -90,6 +90,9 @@ My passion for learning about (almost) anything also extends to the personal sph
 2. With the assistance of my father-in-law and a particularly skilled friend, I aspire to become a handyman inside and outside the house :toolbox: Among other things, I've fixed a hair dryer and an electric water heater that had a broken thermostat :thermometer: I've also tiled the walls of the bathroom :bathtub: at home and changed the floor in the living room :couch_and_lamp: at my parents' house just in time for Christmas :christmas_tree:
 
 If you want to know more about me, don't hesitate to [contact me](mailto:francisco.merinocasallo+githubio@gmail.com?subject=[GitHub%20Page]%20Hi!) :mailbox_with_mail:
+
+***
+***
 
 [^1]: I haven't stopped building LEGO sets as an adult :shushing_face:
 [^2]: It was in [Bushy Park](https://www.royalparks.org.uk/visit/parks/bushy-park) where I proposed :kneeling_man::ring: to my partner.
