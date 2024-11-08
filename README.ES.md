@@ -1,4 +1,10 @@
-![Foto de perfil de Francisco Merino Casallo](images/profile-circle-small.png){:style="display:block; margin-left:auto; margin-right:auto"}
+---
+layout: translation
+title: Español
+permalink: /es
+---
+
+![Foto de perfil de Francisco Merino-Casallo](images/profile-circle-small.png){:style="display:block; margin-left:auto; margin-right:auto"}
 
 ¡Hola! :grinning: :wave:
 
@@ -77,12 +83,6 @@ Como una persona con una mentalidad de crecimiento, busco oportunidades para seg
 En lo personal, me esfuerzo por mantener una mente sana en un cuerpo sano. Para ello, sigo una dieta a base de [lecturas](https://bit.ly/3N5FOuq) :books: y pódcasts :studio_microphone: variados, meditación :lotus_position_man:, y entrenamiento de cardio :running_man: :swimming_man: y fuerza :weight_lifting_man:
 
 Disfruto descubriendo nuevos lugares :national_park::cityscape: y culturas :japanese_ogre: :european_castle: con mi familia (la original y la elegida :heart:). Recuerdo con gran cariño los viajes por Europa :fr::belgium::it::de::scotland::norway: durante las vacaciones de verano, muchos de ellos en coche :minibus: Confieso mantener una relación especial con los [Royal Parks de Londres](https://www.royalparks.org.uk/) [^2] :deer::deciduous_tree: y Nueva York :taxi::statue_of_liberty: [^3] Ya he empezado a planificar un viaje a Corea del Sur :kr: y Japón :jp::shinto_shrine:, y tengo muchos otros todavía pendientes.
-
-***
-
-En lo personal, me esfuerzo por mantener una mente sana en un cuerpo sano. Para ello, sigo una dieta a base de [lecturas variadas](https://bit.ly/3N5FOuq) :books:, pódcasts :studio_microphone:, meditación :lotus_position_man: y ejercicios de cardio :running_man: :swimming_man: y fuerza :weight_lifting_man:
-
-Disfruto descubriendo nuevos lugares :national_park::cityscape: y culturas :japanese_ogre: :european_castle: con mi familia (la original y la elegida :heart:). Recuerdo con gran cariño los viajes por Europa :fr::belgium::it::de::scotland::norway: durante las vacaciones de verano, muchos de ellos en coche :minibus: Confieso mantener una relación especial con los [Royal Parks de Londres](https://www.royalparks.org.uk/) [^2] :deer::deciduous_tree: y Nueva York :taxi::statue_of_liberty: [^3] Y todavía tengo pendiente viajar a Corea del Sur :kr: y Japón :jp::shinto_shrine:, entre muchos otros.
 
 Mi pasión por aprender de (casi) cualquier cosa también se extiende al ámbito personal:
 
