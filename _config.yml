@@ -53,8 +53,3 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
-# minima:
-#   social_links:
-#     - platform: manfred  # same as SVG filename.
-#       user_url: "https://www.getmanfred.com/perfil/fmerinocasallo"  # URL of profile page.
