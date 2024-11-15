@@ -6,6 +6,8 @@ permalink: /en
 
 ![Francisco Merino-Casallo's profile picture](images/profile-circle-small.png){:style="display:block; margin-left:auto; margin-right:auto"}
 
+_"There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self." ― Ernest Hemingway_{:style="display:block; text-align:center;"}
+
 Hello! :grinning: :wave:
 
 My name is Fran and I am from Zaragoza :city_sunrise:, although the COVID-19 lockdown caught me in the middle of a trip to the Valencian *terreta* and several years later, I am still here; matters of the heart :heart:

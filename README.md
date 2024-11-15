@@ -1,8 +1,14 @@
 ![Foto de perfil de Francisco Merino Casallo](images/profile-circle-small.png){:style="display:block; margin-left:auto; margin-right:auto"}
 
+_"No hay nada noble en ser superior a tu prójimo; la verdadera nobleza es ser superior a tu yo anterior." ― Ernest Hemingway_{:style="display:block; text-align:center;"}
+
 ¡Hola! :grinning: :wave:
 
 Me llamo Fran y soy de Zaragoza :city_sunrise:, aunque el confinamiento me pilló de visita en la terreta valenciana y aquí sigo, varios años después, por cuestiones del corazón :heart:
+
+“There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self.”
+
+
 
 ***
 
