@@ -16,6 +16,8 @@ My name is Fran and I am from Zaragoza :city_sunrise:, although the COVID-19 loc
 
 I am an excellence seeker and builder of processes that deliver the desired output :bullettrain_front: **and** make an optimal use of the available resources :airplane: **at the same time** :ship: I aim to transform data :microscope::bar_chart: into actionable insights :pill::bulb: for healthier and more sustainable lives :camping: I leverage my acquired experience in R&D (bioinformatics :dna:, computational biology :microscope::desktop_computer:), computer engineering (automation :robot:, optimization :stopwatch:, [high-performance environments](https://en.wikipedia.org/wiki/High-performance_computing) :rocket:) and data analysis :bar_chart: (9+ years of experience) while honing my skills in software architecture :building_construction:, data science and engineering :abacus::file_cabinet:, [DevOps](https://en.wikipedia.org/wiki/DevOps) :hammer_and_wrench: and [cloud computing](https://en.wikipedia.org/wiki/Cloud_computing) :cloud:
 
+If you want to know how I work, check [this link](https://drive.google.com/file/d/1q2rGzSgfm4JmeGkiIFMXTnzwqim0dtLp/view?usp=sharing), where you will find some examples about past (and present) working experiences.
+
 # Where I come from, where I'm going :rewind: :fast_forward:
 
 When I was a kid, I started building LEGO sets in the real world and a few years later, during my teens, I made the leap into the digital world with an [iMac G3](https://en.wikipedia.org/wiki/IMac_G3) (Apple's first major product release under CEO Steve Jobs following his return to the company he co-founded) :desktop_computer:

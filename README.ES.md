@@ -16,6 +16,8 @@ Me llamo Fran y soy de Zaragoza :city_sunrise:, aunque el confinamiento me pill�
 
 Busco la excelencia creando procesos no solo eficientes [^1] :bullettrain_front: o eficaces [^2] :airplane: sino efectivos [^3] :ship: Mi propósito es transformar los datos :microscope::bar_chart: en información accionable :pill::bulb: que permita llevar vidas más saludables y sostenibles :camping: Para ello, aprovecho la experiencia adquirida en I+D (bioinformática :dna:, biología computacional :microscope::desktop_computer:), ingeniería informática (automatización :robot:, optimización :stopwatch:, [entornos de alto rendimiento](https://es.wikipedia.org/wiki/Computaci%C3%B3n_de_alto_rendimiento) :rocket:) y el análisis de datos :bar_chart: (9+ años de experiencia) mientras perfecciono mis habilidades en arquitectura de software :building_construction:, ciencia e ingeniería de datos :abacus::file_cabinet:, [DevOps](https://es.wikipedia.org/wiki/DevOps) :hammer_and_wrench: y la [computación en la nube](https://es.wikipedia.org/wiki/Computaci%C3%B3n_en_la_nube) :cloud:
 
+Si quieres saber cómo trabajo, consulta [este enlace](https://drive.google.com/file/d/1M6LgQF-HaFR5iNxZfxfsjKip_gwWt0hy/view?usp=sharing), donde encontrarás algunos ejemplos con experiencias laborales pasadas y presentes.
+
 # De dónde vengo y adónde voy :rewind: :fast_forward:
 
 Cuando era pequeño empecé construyendo sets de LEGO en el mundo real y unos años más tarde, durante mi adolescencia, di el salto al mundo digital gracias a la informática de la mano de un [iMac G3](https://es.wikipedia.org/wiki/IMac_G3) (el primer lanzamiento importante de un producto de Apple bajo la dirección de Steve Jobs tras su regreso a la empresa que cofundó) :desktop_computer:
