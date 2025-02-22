@@ -30,7 +30,7 @@ In 2022, I defended [my doctoral thesis](https://bit.ly/3ZvdCZz) in Biomedical E
 
 In 2023, I began my transition to the industry at [Caphunters](https://caphunters.com/en/) :billed_cap:, a retail company interested in predicting future demand for its products. In this project, I honed my skills in data science through time series analysis using statistical and AI-based models.
 
-I am currently gaining hands-on experience in data engineering ([PostgreSQL](https://www.postgresql.org/)), DevOps (containerized systems and environments [[Docker](https://www.docker.com/)], Infrastructure as Code [IaC; [Terraform](https://www.terraform.io/)]) and cloud computing ([Google Cloud Platform](https://cloud.google.com/)).
+I am currently gaining hands-on experience in data engineering ([PostgreSQL](https://www.postgresql.org/), [BigQuery](https://cloud.google.com/bigquery), [Kestra](https://kestra.io), [dlt](http://dlthub.com), [dbt](https://www.getdbt.com), [Metabase](https://www.metabase.com), [Google Looker Studio](https://cloud.google.com/looker-studio)), DevOps (containerized systems and environments [[Docker](https://www.docker.com/)], Infrastructure as Code [IaC; [Terraform](https://www.terraform.io/)]) and cloud computing ([Google Cloud Platform](https://cloud.google.com/)).
 
 > :sassy_man: If you want to track my progress in this new learning adventure, you can check out [my public GitHub repository](https://bit.ly/3Y5erHr).
 

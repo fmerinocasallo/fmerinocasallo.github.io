@@ -24,7 +24,7 @@ En 2022 defendí [mi tesis doctoral](https://bit.ly/3ZvdCZz) en Ingeniería Biom
 
 En 2023 inicié mi transición a la industria de la mano de [Caphunters](https://caphunters.es/) :billed_cap:, una empresa del sector retail interesada en predecir la demanda futura de sus productos. En este proyecto pude perfeccionar mis habilidades en el análisis de series temporales utilizando modelos estadísticos y basados en inteligencia artificial.
 
-Actualmente estoy continuando mi formación en ingeniería de datos ([PostgreSQL](https://www.postgresql.org/)), DevOps (sistemas y entornos contenedorizados [[Docker](https://www.docker.com/)], infraestructura como código [[Terraform](https://www.terraform.io/)]) y computación en la nube ([Google Cloud Platform](https://cloud.google.com/)).
+Actualmente estoy continuando mi formación en ingeniería de datos ([PostgreSQL](https://www.postgresql.org/), [BigQuery](https://cloud.google.com/bigquery?hl=es-419), [Kestra](https://kestra.io), [dlt](http://dlthub.com), [dbt](https://www.getdbt.com), [Metabase](https://www.metabase.com), [Google Looker Studio](https://cloud.google.com/looker-studio?hl=es-419)), DevOps (sistemas y entornos contenedorizados [[Docker](https://www.docker.com/)], infraestructura como código [[Terraform](https://www.terraform.io/)]) y computación en la nube ([Google Cloud Platform](https://cloud.google.com/)).
 
 > :sassy_man: Si quieres comprobar mis progresos en este nuevo aprendizaje, puedes consultar [mi repositorio público de GitHub](https://bit.ly/3Y5erHr).
 
