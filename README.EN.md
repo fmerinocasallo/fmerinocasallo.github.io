@@ -1,4 +1,4 @@
-![Profile picture of Francisco Merino Casallo](images/profile-circle-small.png){:style="display:block; margin-left:auto; margin-right:auto"}
+![Profile picture of Francisco Merino-Casallo](images/profile-circle-small.png){:style="display:block; margin-left:auto; margin-right:auto"}
 
 _There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self. ― Ernest Hemingway_{:style="display:block; text-align:center;"}
 
