@@ -1,3 +1,9 @@
+---
+layout: translation
+title: Español
+permalink: /es
+---
+
 ![Foto de perfil de Francisco Merino Casallo](images/profile-circle-small.png){:style="display:block; margin-left:auto; margin-right:auto"}
 
 _La verdadera nobleza no está en compararse con los demás, sino en superarse a uno mismo.[^1]_{:style="display:block; text-align:center;"}
