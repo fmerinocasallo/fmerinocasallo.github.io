@@ -1,103 +1,119 @@
----
-layout: translation
-title: English
-permalink: /en
----
+![Profile picture of Francisco Merino Casallo](images/profile-circle-small.png){:style="display:block; margin-left:auto; margin-right:auto"}
 
-![Francisco Merino-Casallo's profile picture](images/profile-circle-small.png){:style="display:block; margin-left:auto; margin-right:auto"}
-
-_"There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self." ― Ernest Hemingway_{:style="display:block; text-align:center;"}
+_There is nothing noble in being superior to your fellow man; true nobility is being superior to your former self. ― Ernest Hemingway_{:style="display:block; text-align:center;"}
 
 Hello! :grinning: :wave:
 
-My name is Fran and I am from Zaragoza, although the COVID-19 lockdown caught me in the middle of a trip to the Valencian *terreta* and several years later, I am still here; matters of the heart :heart:
+I'm Fran, a Data and Technology Specialist. My roots are in Zaragoza, but my heart is in Valencia :heart: With a background that blends science, engineering, and software development, I'm dedicated to translating data into actionable and valuable insights for strategic decision-making.
 
 ***
 
-I am an excellence seeker and builder of processes that deliver the desired output **and** make an optimal use of the available resources **at the same time**. I aim to transform data into actionable insights for healthier, more sustainable, and more meaningful lives. I leverage my acquired experience in R&D (bioinformatics and biomedical engineering), computer engineering (automation, optimization, [high-performance environments](https://en.wikipedia.org/wiki/High-performance_computing)) and data analysis (9+ years of experience) while honing my skills in software architecture, data science and engineering, [DevOps](https://en.wikipedia.org/wiki/DevOps) and [cloud computing](https://en.wikipedia.org/wiki/Cloud_computing).
+I design solutions that deliver the desired output _and_ make an optimal use of the available resources _at the same time_. I have expertise in optimizing processes and operations and extracting value from data to drive strategic decisions. I have over 9 years of experience in data management and analysis in scientific and technological environments, transforming knowledge into tangible impact. My career spans from bioinformatics and biomedical engineering to advanced analytics and large-scale data utilization, including processing, analysis, and interpretation. Additionally, I continue to refine my skills in software architecture, information management, deployment automation ([DevOps](https://en.wikipedia.org/wiki/DevOps)), and [cloud computing](https://en.wikipedia.org/wiki/Cloud_computing) to maximize my impact and deliver more value to individuals, teams, and organizations.
 
-> :sassy_man: If you want to know how I work, check [this link](https://drive.google.com/file/d/1q2rGzSgfm4JmeGkiIFMXTnzwqim0dtLp/view?usp=sharing), where you will find some examples about past (and present) working experiences.
+> :information_source: If you'd like to know more about how I work, you can check out [this link](https://drive.google.com/file/d/1M6LgQF-HaFR5iNxZfxfsjKip_gwWt0hy/view?usp=sharing), where you'll find some examples from past and present work experiences.
 
-# Where I come from, where I'm going :rewind: :fast_forward:
 
-When I was a kid, I started building LEGO sets in the real world and a few years later, during my teens, I made the leap into the digital world with an [iMac G3](https://en.wikipedia.org/wiki/IMac_G3) (Apple's first major product release under CEO Steve Jobs following his return to the company he co-founded).
+# Where I come from and where I'm going :rewind: :fast_forward:
 
-What started out as the hobbies of a kid [^1] and a teenager end up as an *MSc* in Computer Engineering.
+My curiosity for creating and understanding complex systems began with LEGO, designing structures piece by piece. Over time, my passion for building from logic and creativity evolved into the digital world when I discovered computing with an [iMac G3](https://en.wikipedia.org/wiki/IMac_G3), the iconic computer with which Steve Jobs relaunched Apple after his return. That was the beginning of my journey into engineering.
+What started as simple curiosity became a vocation[^5]. This growing interest led me to study Computer Engineering, where I discovered that, at its core, technology is not just about algorithms and systems but about helping people solve real problems and live healthier, more sustainable, and meaningful lives.
 
-I spent the first two years of my professional career developing processes to analyze huge amounts of genetic data to identify mutations that increase susceptibility or predisposition to certain diseases.
+I began my professional career developing processes for the massive analysis of genetic data, identifying mutations associated with predisposition to various diseases. This work allowed me to specialize in data analysis and operations optimization, which are key skills in environments where data-driven decision-making is essential.
 
-In 2022, I defended [my doctoral thesis](https://bit.ly/3ZvdCZz) in Biomedical Engineering, focused on modeling and predicting the behavior of complex biological systems [During my PhD, I implemented an autonomous methodology based on Bayesian optimization techniques that facilitates the integration of theoretical studies with experimental data](https://bit.ly/3YWEfpp). Such integration is critical to continue unraveling the mysteries of life and the universe (:four::two:). [I used this novel methodology to autonomously calibrate the computational models I was developing based on experimental data collected by my colleagues at the mechanobiology wet lab](https://bit.ly/3UHVPuY).
+In 2022, I completed my PhD in Biomedical Engineering, focusing on modeling and predicting the cellular migratory response, a fundamental biological process not only for life and development but also associated with some of the leading causes of morbidity and mortality[^6]. During this stage, I developed computational models to replicate the behavior of these systems and [an autonomous methodology based on Bayesian optimization that facilitates the integration of theoretical studies with experimental data](https://bit.ly/3UHVPuY). This study advanced biomedical research and added value in contexts where data modeling, analysis, and interpretation are key to decision-making.
 
-In 2023, I began my transition to the industry at [Caphunters](https://caphunters.com/en/) :billed_cap:, a retail company interested in predicting future demand for its products. In this project, I honed my skills in data science through time series analysis using statistical and AI-based models.
+In 2023, I leaped to industry with Caphunters, a retail company specializing in fashion accessories :billed_cap: In this project, I honed my skills in time series analysis, applying statistical models and artificial intelligence to predict demand for their catalog, optimize inventories, and maximize sales.
 
-I am currently gaining hands-on experience in data engineering ([PostgreSQL](https://www.postgresql.org/), [BigQuery](https://cloud.google.com/bigquery), [Kestra](https://kestra.io), [dlt](http://dlthub.com), [dbt](https://www.getdbt.com), [Metabase](https://www.metabase.com), [Google Looker Studio](https://cloud.google.com/looker-studio)), DevOps (containerized systems and environments [[Docker](https://www.docker.com/)], Infrastructure as Code [IaC; [Terraform](https://www.terraform.io/)]) and cloud computing ([Google Cloud Platform](https://cloud.google.com/)).
+Currently, I continue to refine my data management skills and expand my experience with key tools in the modern data ecosystem, including:
+- Storage and analytics: [PostgreSQL](https://www.postgresql.org/) and [BigQuery](https://cloud.google.com/bigquery).
+- Data orchestration: [Airflow](https://airflow.apache.org) and [Kestra](https://kestra.io).
+- Data loading and ingestion: [dlt](http://dlthub.com).
+- Data transformation: [dbt](https://www.getdbt.com).
+- Business analysis and visualization: [Metabase](https://www.metabase.com) and [Google Looker Studio](https://cloud.google.com/looker-studio).
+- Deployment and automation: [Docker](https://www.docker.com/), [Terraform](https://www.terraform.io/), and [Google Cloud Platform](https://cloud.google.com/).
 
-> :sassy_man: If you want to track my progress in this new learning adventure, you can check out [my public GitHub repository](https://bit.ly/3Y5erHr).
+> :information_source: If you want to see what I'm working on, you can explore **some of my work** in my public GitHub repository:
+> - [Docker + SQL](https://github.com/fmerinocasallo/data-engineering-zoomcamp/blob/main/01-docker-terraform/01-docker-sql/README.md).
+> - [Terraform in GCP](https://github.com/fmerinocasallo/data-engineering-zoomcamp/blob/main/01-docker-terraform/02-terraform-gcp/README.md).
+> - [Workflow orchestration with Kestra](https://github.com/fmerinocasallo/data-engineering-zoomcamp/blob/module-2/02-workflow-orchestration/README.md).
+> - [dbt Certification](https://credentials.getdbt.com/ebf8d853-9f5e-4d93-b9e6-83b242f677ba#acc.Rf8EC7Px).
 
-# About me :man_scientist: :man_technologist:
+## My Work Approach and Contributions :hammer_and_wrench:
 
-The fact that my parents, my youngest sister and my partner are all doctors :stethoscope: probably favoured my predisposition to study some of the basic processes and systems of life for eight years. The fact that one of my grandfathers and his three sons (my uncles) are agricultural engineers :man_farmer: may have had something to do with it too :stuck_out_tongue:
+:white_check_mark: **Advanced Data Management** to support strategic decision-making.
+:white_check_mark: **Process and Operations Optimization** to improve efficiency, automate workflows, and reduce costs.
+:white_check_mark: **Holistic Approach** combining research, advanced modeling, and practical implementation in technological and industrial environments.
+:white_check_mark: **Continuous Learning** in new techniques, technologies, and tools to generate more impact and deliver more value.
 
-I am n avid learner always looking for new opportunities to add value and grow.
+# About Me :man_scientist: :man_technologist:
 
-> :sassy_man: If you want to verify how I went from knowing absolutely nothing about genetics, big data analysis, and multiple sequence alignment methods to publishing a paper on these topics, you can check out [this paper](https://bit.ly/3TEFkPV).
+My family environment has deeply influenced my professional journey: I grew up surrounded by doctors and agricultural engineers, which sparked a fascination for understanding complex systems. As a result, I dedicated eight years to studying fundamental processes and systems for life and development. Note that these processes are also related to some of the leading causes of morbidity and mortality.
 
-> :sassy_man: If you want to verify how I went from knowing absolutely nothing about biomechanics, cell biology, high-throughput environments, and Bayesian optimization methods to defending a doctoral thesis on these issues, you can check out [this document](https://bit.ly/3ZvdCZz).
+This combination of influences has given me an analytical mindset, an insatiable curiosity, and a strong learning orientation. But, above all, it has instilled in me a vision focused on impact and value delivery, principles that guide both my work and my approach to challenges.
 
-> :sassy_man: If you want to verify how I went from knowing absolutely nothing about time series analysis to collaborating in the development of Darts, one of the most widely used open source libraries for prediction and anomaly detection in time series, you can check out [this link](https://bit.ly/4dd3HuU).
+> :information_source: I am motivated to face new challenges and keep learning to boost impact and deliver value. Throughout my career, I have gone from being a complete beginner in some areas of knowledge to actively contributing to their growth and development. For example:
+> :white_check_mark: **Genetics, massive data analysis, and sequence alignment**: [Publication at the International Conference on Bioinformatics and Biomedicine](https://bit.ly/3TEFkPV).
+> :white_check_mark: **Predictive modeling of complex biological systems in high-performance environments with Bayesian optimization**: [Doctoral thesis in Biomedical Engineering](https://bit.ly/3ZvdCZz).
+> :white_check_mark: **Demand estimation with time series using statistical and artificial intelligence models**: [Contribution to the development of Darts, one of the most widely used open-source libraries in this field](https://bit.ly/4dd3HuU).
 
-I like working with people because everyone has a unique story. Everyone is better than me at something and, therefore, there is something I can learn from all of them :100:
+I enjoy working in teams and learning from people with unique stories and experiences. I have had the opportunity to collaborate with professionals from various disciplines, which has allowed me to grow, deliver value, and develop solutions in multi- and interdisciplinary environments.
 
-> :sassy_man: Throughout my professional career, I have enjoyed collaborating with people with remarkable stories and experiences such as [Elvira Mayordomo](http://webdiis.unizar.es/~elvira/), [Jorge Álvarez Jarreta](https://www.linkedin.com/in/jorge-%C3%A1lvarez-jarreta-95a6162a/), [José Manuel García Aznar](https://m2be.unizar.es/people/jmgaraz/), [Mª José Gómez Benito](https://m2be.unizar.es/people/mjose-gomez-benito/), [Fabian Spill](https://www.linkedin.com/in/fabian-spill-37504250/), [Cristina del Amo](https://www.linkedin.com/in/cristinadelamomateos/), [Ismael González Valverde](https://www.linkedin.com/in/ismael-gonzalez-valverde/), [Gabriele Nasello](https://www.linkedin.com/in/gnasello/), [Silvia Hervás Raluy](https://www.linkedin.com/in/silviahervasraluy/), [Diego Saínz de Mena](https://www.linkedin.com/in/diego-sainz-de-mena), [Inês Gonçalves](https://www.linkedin.com/in/inesggoncalves/), [Eduardo Sánchez Burillo](https://www.linkedin.com/in/eduardo-s%C3%A1nchez-burillo-2638b8194/), [Javier Briz](https://www.linkedin.com/in/javier-briz-3a7a0a23/) and [Rafael Redrado](https://www.linkedin.com/in/rafaelredrado), among many others. They all gifted me great learnings :orange_heart:
+> :information_source: Throughout my career, I have **collaborated** with experts in artificial intelligence, mechanobiology, bioinformatics, and optimization, among other areas. [Elvira Mayordomo](http://webdiis.unizar.es/~elvira/) and [Jorge Álvarez-Jarreta](https://www.linkedin.com/in/jorge-%C3%A1lvarez-jarreta-95a6162a/) (computer theory and bioinformatics), [José Manuel García Aznar](https://m2be.unizar.es/people/jmgaraz/) and [Mª José Gómez Benito](https://m2be.unizar.es/people/mjose-gomez-benito/) (mechanobiology), [Rubén Martínez-Cantín](https://webdiis.unizar.es/~rmcantin/) (artificial intelligence and Bayesian optimization), or [Fabian Spill](https://www.systems-mechanobiology.com/people/fabian-spill) (mathematical modeling of systems biology) have been **great mentors**.
 
-I an an avid team player who greatly enjoys collaborating and learning from his colleagues to achieve shared goals.
+I highly value teamwork, which allows me to collaborate and learn from my colleagues to achieve common goals.
 
-> :sassy_man: Two of the research projects I developed during my PhD serve as an example of my appreciation for teamwork and collaboration with other colleagues with complementary experiences and skills:
-> 1. [Publication on a methodology to automate the integration of computational models with experimental data](https://bit.ly/3ZC66w7).
-> 2. [Publication on the actors involved in the cell migration process](https://bit.ly/3zww1KQ).
+> :information_source: Below are relevant examples of my appreciation for **teamwork** and **interdisciplinary collaboration** with colleagues with complementary experiences and skills from two of the research projects I developed during my doctoral studies:
+> [Publication on a methodology to automate the integration of computational models with experimental data](https://bit.ly/3ZC66w7).
+> [Publication on the actors involved in the cellular migration process](https://bit.ly/3zww1KQ).
 
-I have enjoyed both the role of mentor and mentee.
+I have enjoyed both the mentor and the learner roles.
 
-> :sassy_man: The undergraduate thesis of [Alejandro Modrego](https://bit.ly/4eAGmnV) and [Benjamín Real Ruiz](https://bit.ly/4eh4b4j) that I co-supervised during my PhD may be suitable examples of my experience as a mentor.
+> :information_source: Below are relevant examples of my experiences in both roles:
+> - **Mentor**: BSc thesis of [Alejandro Modrego Bravo](https://bit.ly/4eAGmnV) and [Benjamín Real Ruiz](https://bit.ly/4eh4b4j) that I co-supervised during my PhD.
+> - **Learner** (and the ability to become an expert in a knowledge area): my [PhD thesis](https://bit.ly/3ZvdCZz).
 
-> :sassy_man: [My PhD thesis](https://bit.ly/3ZvdCZz) could be a suitable example of my experience as a mentee and my ability to become an expert in a specific topic (in this case, modeling complex biological systems to predict their behavior).
+I maintain a balance between strategic vision and attention to detail. I ensure every decision adds value to the main objectives without neglecting the key aspects that make a difference.
 
-I always try to keep strategic goals in mind without undermining attention to detail.
+> :information_source: Below are relevant examples of:
+> - **The strategic vision of my collaborations** with (i) industry leaders like [SigOpt](https://sigopt.org/) (an AI-driven Optimization-as-a-Service platform at scale, acquired by Intel in 2020) and (ii) academic partners like [Rubén Martínez Cantín](https://webdiis.unizar.es/~rmcantin/index.php) (expert in machine learning and Bayesian optimization) and [Yago Juste Lanas](https://www.linkedin.com/in/yagojustelanas/) (expert in mechanobiology) allowed the creation of [a Bayesian optimization-based methodology for the integration of theoretical studies and experimental data](https://bit.ly/3ZC66w7).
+> - **My attention to detail** allowed me to [report a bug](https://bit.ly/4eQwgiS) in the official repository of [Darts](https://unit8co.github.io/darts/), an open-source library for time series prediction and anomaly detection. I was able to solve this bug with [this pull request](https://bit.ly/4dd3HuU).
 
-> :sassy_man: An example of my strategic vision is my collaboration with:
-> 1. Industrial partners such as [SigOpt](https://sigopt.org/) (platform for optimizing models based on artificial intelligence at scale, [acquired in 2020 by Intel](https://www.intel.com/content/www/us/en/newsroom/news/sigopt-to-scale-ai-productivity-performance.html)).
-> 2. Colleagues from the academic world such as [Rubén Martínez Cantín](https://webdiis.unizar.es/~rmcantin/index.php) (expert in machine learning and Bayesian optimization) and [Yago Juste Lanas](https://www.linkedin.com/in/yagojustelanas/) (biotechnologist and researcher with extensive experience in the mechanobiology wet lab).
->
-> One of the outcomes of this collaboration was [this joint publication](https://bit.ly/3ZC66w7).
+I write clean, structured, and well-documented code. I ensure the code, workflows, and decisions behind each implementation are recorded, facilitating their understanding, maintenance, and scalability.
 
-> :sassy_man: Consider as an example of my attention to detail [this bug report](https://bit.ly/4eQwgiS) in the official repository of the open source library [Darts](https://unit8co.github.io/darts/) for prediction and detection of anomalies in time series. Note that I also fixed this bug in [this pull request](https://bit.ly/4dd3HuU).
+> :information_source: Below are relevant examples of:
+> - [This Python module for managing data related to NYC yellow taxi (monthly) trips and ingesting it into a PostgreSQL server](https://github.com/fmerinocasallo/data-engineering-zoomcamp/blob/module-1/01-docker-terraform/01-docker-sql/data-ingest/data_manager.py) showcases **my efforts to produce clean and structured code**.
+> - The following reports demonstrated **my efforts to document workflows and decisions made**:
+>   1. [Containerizing and securing a PostgreSQL server and pgAdmin](https://bit.ly/3N6ofKU).
+>   2. [Using infrastructure as code on Google Cloud Platform](https://bit.ly/4eHnXWA).
 
-To fulfill these purposes, I strive for clean and simple code, and to document not only code but also processes and goals.
+As a person with a growth mindset, I seek opportunities to continue training, learn new techniques, gain experience using novel technologies, and develop and implement best practices.
 
-> :sassy_man: An example of my efforts to keep the code clean and simple is [this Python module for managing (monthly) NYC yellow cab trip data and ingesting it into a PostgreSQL server](https://bit.ly/3N7fBMd).
-
-> :sassy_man: Take the following report as examples of my efforts to document not only code:
-> 1. [How to containerize and secure a PostgreSQL server and pgAdmin](https://bit.ly/3N6ofKU).
-> 2. [How to use infrastructure as code on Google Cloud Platform](https://bit.ly/4eHnXWA).
-
-As someone with a growth mindset, I seek opportunities for skills training, learning new techniques, gaining experience with novel technologies, and developing and implementing best practices.
+## My Strengths :rocket:
+:white_check_mark: **Accelerated Learning**: Proven ability to adapt to new disciplines, generate impact, and deliver value quickly.
+:white_check_mark: **Interdisciplinary Collaboration**: Experience working with experts from various fields to develop innovative solutions.
+:white_check_mark: **Strategic Vision with Attention to Detail**: Balance between global perspective and meticulous execution.
+:white_check_mark: **Clean Code and Best Practices**: Software development with high-quality standards and clear and concise documentation.
 
 ***
 
-Personally, I strive for a healthy mind in a healthy body. To do this, I follow a diet based on a diversified list of [books](https://bit.ly/3N5FOuq) :books: and podcasts, meditation, and cardio and strength training :weight_lifting_man:
+Beyond the professional sphere, I strive to balance mind and body. I am passionate about continuous learning through [books](https://bit.ly/3N5FOuq), podcasts, meditation, cardio, and strength training :weight_lifting_man:.
 
-I enjoy discovering new places and cultures with my family (the original and the chosen one :heart:). I fondly remember travelling around Europe :fr::belgium::it::de::scotland::norway: during the summer holidays with my family, many of them by car I acknowledge a special relationship with the [Royal Parks in London](https://www.royalparks.org.uk/) [^2] :deer::deciduous_tree: and New York City :taxi::statue_of_liberty: [^3] I have already started planning a trip to South Korea :kr: and Japan :jp::shinto_shrine:, with many others to come.
+Discovering new places and cultures with my family (both the original and the chosen one :heart:) is something I cherish greatly. I fondly remember our summer trips around Europe :fr::belgium::it::de::scotland::norway:, many by car :minibus:. I have a special connection with the [Royal Parks of London](https://www.royalparks.org.uk/)[^1] :deer::deciduous_tree: and the vibrant energy of New York City :taxi::statue_of_liberty: [^2]. I have already started planning my next trips to South Korea and Japan, and my list of pending destinations continues to grow.
 
-My passion for learning about (almost) anything also extends to the personal sphere:
+My curiosity doesn't stop in the professional realm; I am always exploring new areas of knowledge:
 
-1. When I was a kid (and a teenager), I often visited one of my grandfather's walnut orchards located near a small town within the well-known [Spanish ice triangle](https://fascinatingspain.com/place-to-visit/what-to-see-in-aragon/what-to-see-in-teruel/the-ice-triangle-this-is-the-coldest-corner-of-spain/) with him. It is because of him and my uncles, all three agricultural engineers like their father, that I am also interested in agriculture. I no longer harvest walnuts in [Daroca](https://www.spain.info/en/destination/daroca/), but in 2023 I established the annual tradition of harvesting olives on the olive grove that a dear friend has in [Ontinyent](https://www.comunitatvalenciana.com/en/valencia/ontinyent).
-2. With the assistance of my father-in-law and a particularly skilled friend, I aspire to become a handyman inside and outside the house. Among other things, I've fixed a hair dryer and an electric water heater that had a broken thermostat. I've also tiled the walls of the bathroom at home and changed the floor in the living room at my parents' house just in time for Christmas :christmas_tree:
+- **Agriculture and sustainability** :ear_of_rice:: As a child, I accompanied my grandfather to his walnut farm in the [ice or cold triangle](https://www.eltiempo.es/noticias/el-triangulo-del-frio-esta-en-espana-lo-conoces), which sparked my interest in agriculture and sustainability. Today, I maintain that connection by harvesting olives at the grove of a dear friend in [Ontinyent](https://www.comunitatvalenciana.com/en/valencia/ontinyent).
+- **DIY and Repairs** :toolbox:: With the help of my builder father-in-law and a handyman friend, I have learned to repair appliances, tile bathrooms, and change floors. My next project will focus on home automation by automating the control of my house blinds.
 
-If you want to know more about me, don't hesitate to [contact me](mailto:francisco.merinocasallo+githubio@gmail.com?subject=[GitHub%20Page]%20Hi!) :mailbox_with_mail:
+I am always open to new opportunities, learning, and interesting conversations. If you think we can discuss and exchange ideas or collaborate on a project, feel free to [reach out](mailto:francisco.merinocasallo+githubio@gmail.com?subject=[GitHub%20Page]%20Hello!)! :envelope_with_arrow:
 
-***
-***
+And if you have a book, podcast, or travel destination that you think I can't miss, I'd be happy to find out about it!
 
-[^1]: I haven't stopped building LEGO sets as an adult :shushing_face:
-[^2]: It was in [Bushy Park](https://www.royalparks.org.uk/visit/parks/bushy-park) where I proposed to my partner.
-[^3]: It was during a walk in [Central Park](https://www.centralparknyc.org/) that my interest in [birdwatching](https://en.wikipedia.org/wiki/Birdwatching) got picked.
+
+[^1]: Efficient processes focus on how to do the work and, therefore, are those that make optimal use of resources.
+[^2]: Effective processes focus on what things are done and, therefore, are those that do the desired work.
+[^3]: Effective processes focus on how to do the work and on what things are done and, therefore, do the desired work making optimal use of resources.
+[^4]: I haven't stopped building LEGO sets as an adult :shushing_face:.
+[^5]: You can check my doctoral thesis [here]](https://bit.ly/3ZvdCZz).
+[^6]: I proposed to my partner in [Bushy Park](https://www.royalparks.org.uk/visit/parks/bushy-park).
+[^7]: I got the bug for [birdwatching](https://en.wikipedia.org/wiki/Birdwatching) during a walk through [Central Park](https://www.centralparknyc.org/).
