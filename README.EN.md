@@ -16,11 +16,11 @@ I design solutions that deliver the desired output _and_ make an optimal use of 
 # Where I come from and where I'm going :rewind: :fast_forward:
 
 My curiosity for creating and understanding complex systems began with LEGO, designing structures piece by piece. Over time, my passion for building from logic and creativity evolved into the digital world when I discovered computing with an [iMac G3](https://en.wikipedia.org/wiki/IMac_G3), the iconic computer with which Steve Jobs relaunched Apple after his return. That was the beginning of my journey into engineering.
-What started as simple curiosity became a vocation[^5]. This growing interest led me to study Computer Engineering, where I discovered that, at its core, technology is not just about algorithms and systems but about helping people solve real problems and live healthier, more sustainable, and meaningful lives.
+What started as simple curiosity became a vocation[^1]. This growing interest led me to study Computer Engineering, where I discovered that, at its core, technology is not just about algorithms and systems but about helping people solve real problems and live healthier, more sustainable, and meaningful lives.
 
 I began my professional career developing processes for the massive analysis of genetic data, identifying mutations associated with predisposition to various diseases. This work allowed me to specialize in data analysis and operations optimization, which are key skills in environments where data-driven decision-making is essential.
 
-In 2022, I completed my PhD in Biomedical Engineering, focusing on modeling and predicting the cellular migratory response, a fundamental biological process not only for life and development but also associated with some of the leading causes of morbidity and mortality[^6]. During this stage, I developed computational models to replicate the behavior of these systems and [an autonomous methodology based on Bayesian optimization that facilitates the integration of theoretical studies with experimental data](https://bit.ly/3UHVPuY). This study advanced biomedical research and added value in contexts where data modeling, analysis, and interpretation are key to decision-making.
+In 2022, I completed my PhD in Biomedical Engineering, focusing on modeling and predicting the cellular migratory response, a fundamental biological process not only for life and development but also associated with some of the leading causes of morbidity and mortality[^2]. During this stage, I developed computational models to replicate the behavior of these systems and [an autonomous methodology based on Bayesian optimization that facilitates the integration of theoretical studies with experimental data](https://bit.ly/3UHVPuY). This study advanced biomedical research and added value in contexts where data modeling, analysis, and interpretation are key to decision-making.
 
 In 2023, I leaped to industry with Caphunters, a retail company specializing in fashion accessories :billed_cap: In this project, I honed my skills in time series analysis, applying statistical models and artificial intelligence to predict demand for their catalog, optimize inventories, and maximize sales.
 
@@ -98,7 +98,7 @@ As a person with a growth mindset, I seek opportunities to continue training, le
 
 Beyond the professional sphere, I strive to balance mind and body. I am passionate about continuous learning through [books](https://bit.ly/3N5FOuq), podcasts, meditation, cardio, and strength training :weight_lifting_man:.
 
-Discovering new places and cultures with my family (both the original and the chosen one :heart:) is something I cherish greatly. I fondly remember our summer trips around Europe :fr::belgium::it::de::scotland::norway:, many by car :minibus:. I have a special connection with the [Royal Parks of London](https://www.royalparks.org.uk/)[^1] :deer::deciduous_tree: and the vibrant energy of New York City :taxi::statue_of_liberty: [^2]. I have already started planning my next trips to South Korea and Japan, and my list of pending destinations continues to grow.
+Discovering new places and cultures with my family (both the original and the chosen one :heart:) is something I cherish greatly. I fondly remember our summer trips around Europe :fr::belgium::it::de::scotland::norway:, many by car :minibus:. I have a special connection with the [Royal Parks of London](https://www.royalparks.org.uk/)[^3] :deer::deciduous_tree: and the vibrant energy of New York City :taxi::statue_of_liberty: [^4]. I have already started planning my next trips to South Korea and Japan, and my list of pending destinations continues to grow.
 
 My curiosity doesn't stop in the professional realm; I am always exploring new areas of knowledge:
 
@@ -110,10 +110,7 @@ I am always open to new opportunities, learning, and interesting conversations. 
 And if you have a book, podcast, or travel destination that you think I can't miss, I'd be happy to find out about it!
 
 
-[^1]: Efficient processes focus on how to do the work and, therefore, are those that make optimal use of resources.
-[^2]: Effective processes focus on what things are done and, therefore, are those that do the desired work.
-[^3]: Effective processes focus on how to do the work and on what things are done and, therefore, do the desired work making optimal use of resources.
-[^4]: I haven't stopped building LEGO sets as an adult :shushing_face:.
-[^5]: You can check my doctoral thesis [here]](https://bit.ly/3ZvdCZz).
-[^6]: I proposed to my partner in [Bushy Park](https://www.royalparks.org.uk/visit/parks/bushy-park).
-[^7]: I got the bug for [birdwatching](https://en.wikipedia.org/wiki/Birdwatching) during a walk through [Central Park](https://www.centralparknyc.org/).
+[^1]: I haven't stopped building LEGO sets as an adult :shushing_face:.
+[^2]: You can check my doctoral thesis [here]](https://bit.ly/3ZvdCZz).
+[^3]: I proposed to my partner in [Bushy Park](https://www.royalparks.org.uk/visit/parks/bushy-park).
+[^4]: I got the bug for [birdwatching](https://en.wikipedia.org/wiki/Birdwatching) during a walk through [Central Park](https://www.centralparknyc.org/).
