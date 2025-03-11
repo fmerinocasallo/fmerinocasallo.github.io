@@ -33,18 +33,18 @@ Actualmente, sigo perfeccionando mis habilidades en gestión de datos y ampliand
 - Visualización y análisis de negocio: [Metabase](https://www.metabase.com) y [Google Looker Studio](https://cloud.google.com/looker-studio?hl=es-419).
 - Despliegue y automatización: [Docker](https://www.docker.com/), [Terraform](https://www.terraform.io/) y [Google Cloud Platform](https://cloud.google.com/).
 
-> :information_source:	Si quieres ver en qué estoy trabajando, puedes explorar **algunos de mis avances** en mi repositorio público de GitHub:
-> - [Docker + PostgreSQL](https://github.com/fmerinocasallo/data-engineering-zoomcamp/blob/main/01-docker-terraform/01-docker-sql/README.md).
-> - [Terraform en GCP](https://github.com/fmerinocasallo/data-engineering-zoomcamp/blob/main/01-docker-terraform/02-terraform-gcp/README.md).
-> - [Orquestación de flujos de trabajo con Kestra](https://github.com/fmerinocasallo/data-engineering-zoomcamp/blob/module-2/02-workflow-orchestration/README.md).
-> - [Certificación dbt](https://credentials.getdbt.com/ebf8d853-9f5e-4d93-b9e6-83b242f677ba#acc.Rf8EC7Px).
+:information_source: *Si quieres ver en qué estoy trabajando, puedes explorar **algunos de mis avances** en mi repositorio público de GitHub:*
+- *[Docker + PostgreSQL](https://github.com/fmerinocasallo/data-engineering-zoomcamp/blob/main/01-docker-terraform/01-docker-sql/README.md).*
+- *[Terraform en GCP](https://github.com/fmerinocasallo/data-engineering-zoomcamp/blob/main/01-docker-terraform/02-terraform-gcp/README.md).*
+- *[Orquestación de flujos de trabajo con Kestra](https://github.com/fmerinocasallo/data-engineering-zoomcamp/blob/module-2/02-workflow-orchestration/README.md).*
+- *[Certificación dbt](https://credentials.getdbt.com/ebf8d853-9f5e-4d93-b9e6-83b242f677ba#acc.Rf8EC7Px).*
 
 ## Mi enfoque de trabajo y cómo contribuyo :hammer_and_wrench:
 
- :white_check_mark: **Gestión de datos avanzada** para apoyar la toma de decisiones estratégicas.
- :white_check_mark: **Optimización de procesos y operaciones** para mejorar la eficiencia, automatizar flujos de trabajo y reducir costos.
- :white_check_mark: **Enfoque holístico** combinando investigación, modelado avanzado e implementación práctica en entornos tecnológicos e industriales.
- :white_check_mark: **Aprendizaje continuo** en nuevas técnicas, tecnologías y herramientas para generar un mayor impacto y aportar más valor.
+- [x] **Gestión de datos avanzada** para apoyar la toma de decisiones estratégicas.
+- [x] **Optimización de procesos y operaciones** para mejorar la eficiencia, automatizar flujos de trabajo y reducir costos.
+- [x] **Enfoque holístico** combinando investigación, modelado avanzado e implementación práctica en entornos tecnológicos e industriales.
+- [x] **Aprendizaje continuo** en nuevas técnicas, tecnologías y herramientas para generar un mayor impacto y aportar más valor.
 
 # Sobre mí :man_scientist: :man_technologist:
 
@@ -52,50 +52,50 @@ Mi trayectoria profesional ha estado influenciada por mi entorno familiar: crec�
 
 Esta combinación de influencias me ha dado una mentalidad analítica, una curiosidad inagotable y una fuerte orientación al aprendizaje. Pero, sobre todo, me ha inculcado una visión enfocada en el impacto y el aporte de valor, principios que guían tanto mi trabajo como mi forma de abordar los desafíos.
 
-> :information_source: Me motiva enfrentar nuevos desafíos y aprender de manera continua para generar impacto y aportar valor de forma acelerada. A lo largo de mi trayectoria, he pasado de ser un completo desconocedor en ciertos campos a contribuir activamente en ellos. Por ejemplo:
-> 
-> :white_check_mark: **Genética, análisis masivo de datos y alineamiento de secuencias**: [Publicación en la Conferencia Internacional de Bioinformática y Biomedicina](https://bit.ly/3TEFkPV).
-> :white_check_mark: **Modelado predictivo de sistemas biológicos complejos en entornos de alto rendimiento y con optimización Bayesiana**: [Tesis doctoral en Ingeniería Biomédica](https://bit.ly/3ZvdCZz).
-> :white_check_mark: **Estimación de la demanda con series temporales mediante modelos estadísticos y de inteligencia artificial**: [Contribución al desarrollo de  Darts, una de las librerías open source más utilizadas en este campo](https://bit.ly/4dd3HuU).
+:information_source: *Me motiva enfrentar nuevos desafíos y aprender de manera continua para generar impacto y aportar valor de forma acelerada. A lo largo de mi trayectoria, he pasado de ser un completo desconocedor en ciertos campos a contribuir activamente en ellos. Por ejemplo:*
+
+- [x] ***Genética, análisis masivo de datos y alineamiento de secuencias**: [Publicación en la Conferencia Internacional de Bioinformática y Biomedicina](https://bit.ly/3TEFkPV).*
+- [x] ***Modelado predictivo de sistemas biológicos complejos en entornos de alto rendimiento y con optimización Bayesiana**: [Tesis doctoral en Ingeniería Biomédica](https://bit.ly/3ZvdCZz).*
+- [x] ***Estimación de la demanda con series temporales mediante modelos estadísticos y de inteligencia artificial**: [Contribución al desarrollo de  Darts, una de las librerías open source más utilizadas en este campo](https://bit.ly/4dd3HuU).*
 
 Disfruto trabajando en equipo y aprendiendo de personas con historias y experiencias únicas. He tenido la oportunidad de colaborar con profesionales de diversas disciplinas, lo que me ha permitido crecer, aportar valor y desarrollar soluciones en entornos multi- e interdisciplinarios.
 
-> :information_source: A lo largo de mi trayectoria, he **colaborado** con expertos en inteligencia artificial, mecanobiología, bioinformática y optimización, entre otras áreas. Personas como [Elvira Mayordomo](http://webdiis.unizar.es/~elvira/) y [Jorge Álvarez Jarreta](https://www.linkedin.com/in/jorge-%C3%A1lvarez-jarreta-95a6162a/) (teoría de la computación y bioinformática), [José Manuel García Aznar](https://m2be.unizar.es/people/jmgaraz/) y [Mª José Gómez Benito](https://m2be.unizar.es/people/mjose-gomez-benito/) (mecanobiología), [Rubén Martínez-Cantín](https://webdiis.unizar.es/~rmcantin/) (inteligencia artificial y optimización Bayesiana) o [Fabian Spill](https://www.systems-mechanobiology.com/people/fabian-spill), quienes han sido una **fuente inagotable de aprendizaje**.
+:information_source: *A lo largo de mi trayectoria, he **colaborado** con expertos en inteligencia artificial, mecanobiología, bioinformática y optimización, entre otras áreas. Personas como [Elvira Mayordomo](http://webdiis.unizar.es/~elvira/) y [Jorge Álvarez Jarreta](https://www.linkedin.com/in/jorge-%C3%A1lvarez-jarreta-95a6162a/) (teoría de la computación y bioinformática), [José Manuel García Aznar](https://m2be.unizar.es/people/jmgaraz/) y [Mª José Gómez Benito](https://m2be.unizar.es/people/mjose-gomez-benito/) (mecanobiología), [Rubén Martínez-Cantín](https://webdiis.unizar.es/~rmcantin/) (inteligencia artificial y optimización Bayesiana) o [Fabian Spill](https://www.systems-mechanobiology.com/people/fabian-spill) han sido una **fuente inagotable de aprendizaje**.*
 
 Valoro muy positivamente trabajar en equipo, colaborando y aprendiendo de mis compañeros con el objetivo de lograr metas comunes.
 
-> :information_source: A continuación incluyo ejemplos relevantes sobre mi aprecio por el **trabajo en equipo** y la **colaboración interdisciplinar** con compañeros con experiencias y habilidades complementarias dos de los proyectos de investigación que desarrollé durante mi doctorado:
-> 1. [Publicación sobre una metodología para automatizar la integración de modelos computacionales con datos experimentales](https://bit.ly/3ZC66w7).
-> 2. [Publicación sobre los actores involucrados en el proceso de migración celular](https://bit.ly/3zww1KQ).
+:information_source: *A continuación incluyo ejemplos relevantes sobre mi aprecio por el **trabajo en equipo** y la **colaboración interdisciplinar** con compañeros con experiencias y habilidades complementarias dos de los proyectos de investigación que desarrollé durante mi doctorado:*
+1. *[Publicación sobre una metodología para automatizar la integración de modelos computacionales con datos experimentales](https://bit.ly/3ZC66w7).*
+2. *[Publicación sobre los actores involucrados en el proceso de migración celular](https://bit.ly/3zww1KQ).*
 
 He disfrutado tanto en el rol de mentor como en el aprendiz.
 
-> :information_source: A continuación incluyo ejemplos relevantes sobre mis experiencias en ambos roles:
-> - **Mentor**: Trabajos Fin de Grado de [Alejandro Modrego Bravo](https://bit.ly/4eAGmnV) y [Benjamín Real Ruiz](https://bit.ly/4eh4b4j) que co-dirigí durante mi doctorado.
-> - **Aprendiz** (y la capacidad de convertirme en experto en un area de conocimiento): [mi tesis doctoral](https://bit.ly/3ZvdCZz).
+:information_source: *A continuación incluyo ejemplos relevantes sobre mis experiencias en ambos roles:*
+- ***Mentor**: Trabajos Fin de Grado de [Alejandro Modrego Bravo](https://bit.ly/4eAGmnV) y [Benjamín Real Ruiz](https://bit.ly/4eh4b4j) que co-dirigí durante mi doctorado.*
+- ***Aprendiz** (capaz de convertirse en experto): [Mi tesis doctoral](https://bit.ly/3ZvdCZz).*
 
 Mantengo un equilibrio entre la visión estratégica y la atención al detalle. Me aseguro de que cada decisión aporte valor a los objetivos prioritarios sin descuidar los aspectos clave que marcan la diferencia.
 
-> :information_source: A continuación incluyo ejemplos relevantes sobre:
-> - **La visión estratégica de mis colaboraciones** con (i) líderes industriales como [SigOpt](https://sigopt.org/) (plataforma de optimización de modelos basados en inteligencia artificial a escala, [adquirida en 2020 por Intel](https://www.intel.com/content/www/us/en/newsroom/news/sigopt-to-scale-ai-productivity-performance.html)) y (ii) socios del mundo académico como [Rubén Martínez Cantín](https://webdiis.unizar.es/~rmcantin/index.php) (experto en aprendizaje automático y optimización Bayesiana) y [Yago Juste Lanas](https://www.linkedin.com/in/yagojustelanas/) (experto en mecanobiología) permitió [la creación de una metodología basada optimización Bayesiana para la integración de estudios teóricos y datos experimentales](https://bit.ly/3ZC66w7).
-> - **Mi atención al detalle** me permitió [reportar un bug](https://bit.ly/4eQwgiS) en el repositorio oficial de la librería open source [Darts](https://unit8co.github.io/darts/) para la predicción y detección de anomalías en series temporales. Bug que yo mismo resolví en [este pull request](https://bit.ly/4dd3HuU).
+:information_source: *A continuación incluyo ejemplos relevantes sobre:*
+- ***La visión estratégica de mis colaboraciones** con (i) líderes industriales como [SigOpt](https://sigopt.org/) (plataforma de optimización de modelos basados en inteligencia artificial a escala, [adquirida en 2020 por Intel](https://www.intel.com/content/www/us/en/newsroom/news/sigopt-to-scale-ai-productivity-performance.html)) y (ii) socios del mundo académico como [Rubén Martínez Cantín](https://webdiis.unizar.es/~rmcantin/index.php) (experto en aprendizaje automático y optimización Bayesiana) y [Yago Juste Lanas](https://www.linkedin.com/in/yagojustelanas/) (experto en mecanobiología) permitió [la creación de una metodología basada optimización Bayesiana para la integración de estudios teóricos y datos experimentales](https://bit.ly/3ZC66w7).*
+- ***Mi atención al detalle** me permitió [reportar un bug](https://bit.ly/4eQwgiS) en el repositorio oficial de la librería open source [Darts](https://unit8co.github.io/darts/) para la predicción y detección de anomalías en series temporales. Bug que yo mismo resolví en [este pull request](https://bit.ly/4dd3HuU).*
 
 Escribo código limpio, estructurado y bien documentado. Me aseguro de que no solo el código, sino también los flujos de trabajo y decisiones detrás de cada implementación queden registrados de forma clara, facilitando su comprensión, mantenimiento y escalabilidad.
 
-> :information_source: A continuación incluyo ejemplos relevantes sobre:
-> - **Mis esfuerzos por producir código limpio y estructurado** con [este módulo Python para la gestión de datos relativos a los viajes (mensuales) de los taxis amarillos de NYC y su ingesta en un servidor PostgreSQL](https://github.com/fmerinocasallo/data-engineering-zoomcamp/blob/module-1/01-docker-terraform/01-docker-sql/data-ingest/data_manager.py).
-> - **Mis esfuerzos por documentar los flujos de trabajo y las decisiones tomadas** con los siguientes informes:
->   1. [Cómo contenedorizar y segurizar un servidor PostgreSQL y pgAdmin](https://bit.ly/3N6ofKU).
->   2. [Cómo utilizar infraestructura como código en Google Cloud Platform](https://bit.ly/4eHnXWA).
+:information_source: *A continuación incluyo ejemplos relevantes sobre:*
+- ***Mis esfuerzos por producir código limpio y estructurado** con [este módulo Python para la gestión de datos relativos a los viajes (mensuales) de los taxis amarillos de NYC y su ingesta en un servidor PostgreSQL](https://github.com/fmerinocasallo/data-engineering-zoomcamp/blob/module-1/01-docker-terraform/01-docker-sql/data-ingest/data_manager.py).*
+- ***Mis esfuerzos por documentar los flujos de trabajo y las decisiones tomadas** con los siguientes informes:*
+  1. *[Cómo contenedorizar y segurizar un servidor PostgreSQL y pgAdmin](https://bit.ly/3N6ofKU).*
+  2. *[Cómo utilizar infraestructura como código en Google Cloud Platform](https://bit.ly/4eHnXWA).*
 
 Como una persona con una mentalidad de crecimiento, busco oportunidades para seguir formándome, aprender nuevas técnicas, ganar experiencia en el uso de nuevas tecnologías y desarrollar e implementar mejores prácticas.
 
 ## Mis fortalezas 🚀
 
-:white_check_mark: **Aprendizaje acelerado**: Capacidad demostrada para adaptarme a nuevas disciplinas, generar impacto y aportar valor en poco tiempo.
-:white_check_mark: **Colaboración interdisciplinar**: Experiencia trabajando con expertos de diversas áreas para desarrollar soluciones innovadoras.
-:white_check_mark: **Visión estratégica con atención al detalle**: Equilibrio entre perspectiva global y ejecución meticulosa.
-:white_check_mark: **Código limpio y mejores prácticas**: Desarrollo de software con altos estándares de calidad y documentación clara.
+- [x] **Aprendizaje acelerado**: Capacidad demostrada para adaptarme a nuevas disciplinas, generar impacto y aportar valor en poco tiempo.
+- [x] **Colaboración interdisciplinar**: Experiencia trabajando con expertos de diversas áreas para desarrollar soluciones innovadoras.
+- [x] **Visión estratégica con atención al detalle**: Equilibrio entre perspectiva global y ejecución meticulosa.
+- [x] **Código limpio y mejores prácticas**: Desarrollo de software con altos estándares de calidad y documentación clara.
 
 ***
 
