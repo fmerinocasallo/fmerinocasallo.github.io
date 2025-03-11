@@ -55,7 +55,9 @@ Esta combinación de influencias me ha dado una mentalidad analítica, una curio
 :information_source: *Me motiva enfrentar nuevos desafíos y aprender de manera continua para generar impacto y aportar valor de forma acelerada. A lo largo de mi trayectoria, he pasado de ser un completo desconocedor en ciertos campos a contribuir activamente en ellos. Por ejemplo:*
 
 [x] ***Genética, análisis masivo de datos y alineamiento de secuencias**: [Publicación en la Conferencia Internacional de Bioinformática y Biomedicina](https://bit.ly/3TEFkPV).*
+
 [x] ***Modelado predictivo de sistemas biológicos complejos en entornos de alto rendimiento y con optimización Bayesiana**: [Tesis doctoral en Ingeniería Biomédica](https://bit.ly/3ZvdCZz).*
+
 [x] ***Estimación de la demanda con series temporales mediante modelos estadísticos y de inteligencia artificial**: [Contribución al desarrollo de  Darts, una de las librerías open source más utilizadas en este campo](https://bit.ly/4dd3HuU).*
 
 Disfruto trabajando en equipo y aprendiendo de personas con historias y experiencias únicas. He tenido la oportunidad de colaborar con profesionales de diversas disciplinas, lo que me ha permitido crecer, aportar valor y desarrollar soluciones en entornos multi- e interdisciplinarios.
