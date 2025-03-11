@@ -39,7 +39,7 @@ Currently, I continue to refine my data management skills and expand my experien
 - Deployment and automation: [Docker](https://www.docker.com/), [Terraform](https://www.terraform.io/), and [Google Cloud Platform](https://cloud.google.com/).
 
 > :information_source: If you want to see what I'm working on, you can explore **some of my work** in my public GitHub repository:
-> - [Docker + SQL](https://github.com/fmerinocasallo/data-engineering-zoomcamp/blob/main/01-docker-terraform/01-docker-sql/README.md).
+> - [Docker + PostgreSQL](https://github.com/fmerinocasallo/data-engineering-zoomcamp/blob/main/01-docker-terraform/01-docker-sql/README.md).
 > - [Terraform in GCP](https://github.com/fmerinocasallo/data-engineering-zoomcamp/blob/main/01-docker-terraform/02-terraform-gcp/README.md).
 > - [Workflow orchestration with Kestra](https://github.com/fmerinocasallo/data-engineering-zoomcamp/blob/module-2/02-workflow-orchestration/README.md).
 > - [dbt Certification](https://credentials.getdbt.com/ebf8d853-9f5e-4d93-b9e6-83b242f677ba#acc.Rf8EC7Px).

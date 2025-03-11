@@ -34,17 +34,17 @@ Actualmente, sigo perfeccionando mis habilidades en gestión de datos y ampliand
 - Despliegue y automatización: [Docker](https://www.docker.com/), [Terraform](https://www.terraform.io/) y [Google Cloud Platform](https://cloud.google.com/).
 
 > :information_source:	Si quieres ver en qué estoy trabajando, puedes explorar **algunos de mis avances** en mi repositorio público de GitHub:
-> - [Docker + SQL](https://github.com/fmerinocasallo/data-engineering-zoomcamp/blob/main/01-docker-terraform/01-docker-sql/README.md).
+> - [Docker + PostgreSQL](https://github.com/fmerinocasallo/data-engineering-zoomcamp/blob/main/01-docker-terraform/01-docker-sql/README.md).
 > - [Terraform en GCP](https://github.com/fmerinocasallo/data-engineering-zoomcamp/blob/main/01-docker-terraform/02-terraform-gcp/README.md).
 > - [Orquestación de flujos de trabajo con Kestra](https://github.com/fmerinocasallo/data-engineering-zoomcamp/blob/module-2/02-workflow-orchestration/README.md).
 > - [Certificación dbt](https://credentials.getdbt.com/ebf8d853-9f5e-4d93-b9e6-83b242f677ba#acc.Rf8EC7Px).
 
 ## Mi enfoque de trabajo y cómo contribuyo :hammer_and_wrench:
 
-:white_check_mark: **Gestión de datos avanzada** para apoyar la toma de decisiones estratégicas.
-:white_check_mark: **Optimización de procesos y operaciones** para mejorar la eficiencia, automatizar flujos de trabajo y reducir costos.
-:white_check_mark: **Enfoque holístico** combinando investigación, modelado avanzado e implementación práctica en entornos tecnológicos e industriales.
-:white_check_mark: **Aprendizaje continuo** en nuevas técnicas, tecnologías y herramientas para generar un mayor impacto y aportar más valor.
+ :white_check_mark: **Gestión de datos avanzada** para apoyar la toma de decisiones estratégicas.
+ :white_check_mark: **Optimización de procesos y operaciones** para mejorar la eficiencia, automatizar flujos de trabajo y reducir costos.
+ :white_check_mark: **Enfoque holístico** combinando investigación, modelado avanzado e implementación práctica en entornos tecnológicos e industriales.
+ :white_check_mark: **Aprendizaje continuo** en nuevas técnicas, tecnologías y herramientas para generar un mayor impacto y aportar más valor.
 
 # Sobre mí :man_scientist: :man_technologist:
 
