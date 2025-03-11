@@ -10,7 +10,7 @@ _La verdadera nobleza no está en compararse con los demás, sino en superarse a
 
 ¡Hola! :grinning: :wave:
 
-Soy Fran, **especialista en datos y tecnología**. Mis raíces están en Zaragoza, pero mi corazón está en Valencia :heart: Con una trayectoria que combina **ciencia, ingeniería y desarrollo de software**, me dedico a **transformar datos en información accionable y valiosa para la toma de decisiones estratégicas**.
+Soy Fran, **especialista en datos y tecnología**. Mis raíces están en Zaragoza, pero mi corazón está en Valencia :heart:. Con una trayectoria que combina **ciencia, ingeniería y desarrollo de software**, me dedico a **transformar datos en información accionable y valiosa para la toma de decisiones estratégicas**.
 
 ***
 
@@ -29,7 +29,7 @@ Inicié mi carrera profesional desarrollando **procesos** para el **análisis ma
 
 En 2022, completé mi **doctorado en Ingeniería** Biomédica, centrado en el modelado y la predicción de la respuesta migratoria celular, un proceso biológico fundamental no solo para la vida y el desarrollo, sino también asociado a algunas de las principales causas de morbilidad y mortalidad[^6]. Durante esta etapa, desarrollé modelos computacionales para replicar el comportamiento de estos sistemas y [una metodología autónoma basadas en optimización Bayesiana que facilita la integración de estudios teóricos con datos experimentales](https://bit.ly/3UHVPuY). **Este proyecto** no solo avanzó la investigación biomédica, sino que también **aporta valor en contextos donde el modelado, el análisis y la interpretación de datos son clave para la toma de decisiones**.
 
-En 2023, di el salto a la industria con [Caphunters](https://caphunters.es/), una empresa del sector retail especializada en accesorios de moda :billed_cap: En este proyecto, perfeccioné mis habilidades en **análisis de series temporales**, aplicando **modelos estadísticos e inteligencia artificial** para predecir la demanda de su catálogo, optimizar inventarios y maximizar ventas.
+En 2023, di el salto a la industria con [Caphunters](https://caphunters.es/), una empresa del sector retail especializada en accesorios de moda :billed_cap:. En este proyecto, perfeccioné mis habilidades en **análisis de series temporales**, aplicando **modelos estadísticos e inteligencia artificial** para predecir la demanda de su catálogo, optimizar inventarios y maximizar ventas.
 
 Actualmente, sigo perfeccionando mis habilidades en gestión de datos y ampliando mi experiencia con herramientas clave del ecosistema moderno de datos, incluyendo:
 - Almacenamiento y analítica: [PostgreSQL](https://www.postgresql.org/) y [BigQuery](https://cloud.google.com/bigquery?hl=es-419).
@@ -111,7 +111,7 @@ Como una persona con una mentalidad de crecimiento, busco oportunidades para seg
 
 Más allá del ámbito profesional, me esfuerzo por mantener un equilibrio entre mente y cuerpo. **Me apasiona el aprendizaje continuo**, ya sea a través de [libros](https://bit.ly/3N5FOuq), pódcasts, meditación o entrenamiento de cardio y fuerza :weight_lifting_man:.
 
-Descubrir nuevos lugares y culturas con mi familia (tanto la de nacimiento como la elegida :heart:) es algo que valoro enormemente. Recuerdo con cariño los viajes de verano por Europa :fr::belgium::it::de::scotland::norway:, muchos de ellos en coche :minibus: Tengo un vínculo especial con los [Royal Parks de Londres](https://www.royalparks.org.uk/) [^7] :deer::deciduous_tree: y con la energía vibrante de Nueva York :taxi::statue_of_liberty: [^8] Ya he empezado a planificar mis próximos viajes a Corea del Sur :kr: y Japón :jp::shinto_shrine:, y mi lista de destinos pendientes sigue creciendo.
+Descubrir nuevos lugares y culturas con mi familia (tanto la de nacimiento como la elegida :heart:) es algo que valoro enormemente. Recuerdo con cariño los viajes de verano por Europa :fr::belgium::it::de::scotland::norway:, muchos de ellos en coche :minibus:. Tengo un vínculo especial con los [Royal Parks de Londres](https://www.royalparks.org.uk/) [^7] :deer::deciduous_tree: y con la energía vibrante de Nueva York :taxi::statue_of_liberty: [^8]. Ya he empezado a planificar mis próximos viajes a Corea del Sur :kr: y Japón :jp::shinto_shrine:, y mi lista de destinos pendientes sigue creciendo.
 
 **Mi curiosidad no se detiene en lo profesional**; siempre estoy explorando nuevas áreas de conocimiento:
 - **Agricultura y Sostenibilidad** :ear_of_rice:: De pequeño acompañaba a mi abuelo a su finca de nogales en el [triángulo de hielo o del frío](https://www.eltiempo.es/noticias/el-triangulo-del-frio-esta-en-espana-lo-conoces), lo que despertó mi interés por el mundo agrícola. Hoy, mantengo esa conexión recogiendo olivas cada año en la finca de los padres de una amiga en [Ontinyent](https://turisme.ontinyent.es/ontinyent/web_php/index.php).
@@ -127,7 +127,7 @@ Y si tienes un libro, pódcast o destino de viaje que crees que no me puedo perd
 [^2]: Los procesos eficientes se centran en **cómo** hacer el trabajo y, por tanto, son aquellos que hacen un uso de los recursos óptimo.
 [^3]: Los procesos eficaces se centran en **qué** cosas se hacen y, por tanto, son aquellos que hacen el trabajo deseado.
 [^4]: Los procesos efectivos se centran en **cómo** hacer el trabajo y en **qué** cosas se hacen y, por lo tanto, hacen el trabajo deseado haciendo un uso de los recursos óptimo.
-[^5]: No he dejado de montar sets de LEGO siendo adulto :shushing_face:
+[^5]: No he dejado de montar sets de LEGO siendo adulto :shushing_face:.
 [^6]: Puedes consultar mi tesis doctoral [aquí](https://bit.ly/3ZvdCZz).
 [^7]: Fue en [Bushy Park](https://www.royalparks.org.uk/visit/parks/bushy-park) donde le pedí matrimonio a mi pareja.
 [^8]: Fue durante un paseo por [Central Park](https://www.centralparknyc.org/) donde me picó el gusanillo del [pajareo](https://es.wikipedia.org/wiki/Observaci%C3%B3n_de_aves).

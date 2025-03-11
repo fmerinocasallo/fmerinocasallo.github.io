@@ -10,7 +10,7 @@ _There is nothing noble in being superior to your fellow man; true nobility is b
 
 Hello! :grinning: :wave:
 
-I'm Fran, a **Data and Technology Specialist**. My roots are in Zaragoza, but my heart is in Valencia :heart: With a background that blends **science, engineering, and software development**, I'm dedicated to **translating data into actionable and valuable insights for strategic decision-making**.
+I'm Fran, a **Data and Technology Specialist**. My roots are in Zaragoza, but my heart is in Valencia :heart:. With a background that blends **science, engineering, and software development**, I'm dedicated to **translating data into actionable and valuable insights for strategic decision-making**.
 
 ***
 
@@ -29,7 +29,7 @@ I began my professional career developing **processes** for the **massive analys
 
 In 2022, I completed my **PhD in** Biomedical **Engineering**, focusing on modeling and predicting the cellular migratory response, a fundamental biological process not only for life and development but also associated with some of the leading causes of morbidity and mortality[^2]. During this stage, I developed computational models to replicate the behavior of these systems and [an autonomous methodology based on Bayesian optimization that facilitates the integration of theoretical studies with experimental data](https://bit.ly/3UHVPuY). **This project** advanced biomedical research and **added value in contexts where data modeling, analysis, and interpretation are key to decision-making**.
 
-In 2023, I leaped to industry with Caphunters, a retail company specializing in fashion accessories :billed_cap: In this project, I honed my skills in **time series analysis**, applying **statistical models and artificial intelligence** to predict demand for their catalog, optimize inventories, and maximize sales.
+In 2023, I leaped to industry with Caphunters, a retail company specializing in fashion accessories :billed_cap:. In this project, I honed my skills in **time series analysis**, applying **statistical models and artificial intelligence** to predict demand for their catalog, optimize inventories, and maximize sales.
 
 Currently, I continue to refine my data management skills and expand my experience with key tools in the modern data ecosystem, including:
 - Storage and analytics: [PostgreSQL](https://www.postgresql.org/) and [BigQuery](https://cloud.google.com/bigquery).
@@ -111,7 +111,7 @@ Beyond the professional sphere, I strive to balance mind and body. **I am passio
 
 Discovering new places and cultures with my family (both the original and the chosen one :heart:) is something I cherish greatly. I fondly remember our summer trips around Europe :fr::belgium::it::de::scotland::norway:, many by car :minibus:. I have a special connection with the [Royal Parks of London](https://www.royalparks.org.uk/)[^3] :deer::deciduous_tree: and the vibrant energy of New York City :taxi::statue_of_liberty: [^4]. I have already started planning my next trips to South Korea and Japan, and my list of pending destinations continues to grow.
 
-My curiosity doesn't stop in the professional realm**; I am always exploring new areas of knowledge:
+**My curiosity doesn't stop in the professional realm**; I am always exploring new areas of knowledge:
 
 - **Agriculture and sustainability** :ear_of_rice:: As a child, I accompanied my grandfather to his walnut farm in the [ice or cold triangle](https://www.eltiempo.es/noticias/el-triangulo-del-frio-esta-en-espana-lo-conoces), which sparked my interest in agriculture and sustainability. Today, I maintain that connection by harvesting olives at the grove of a dear friend in [Ontinyent](https://www.comunitatvalenciana.com/en/valencia/ontinyent).
 - **DIY and Repairs** :toolbox:: With the help of my builder father-in-law and a handyman friend, I have learned to repair appliances, tile bathrooms, and change floors. My next project will focus on home automation by automating the control of my house blinds.
@@ -123,6 +123,6 @@ And if you have a book, podcast, or travel destination that you think I can't mi
 ***
 
 [^1]: I haven't stopped building LEGO sets as an adult :shushing_face:.
-[^2]: You can check my doctoral thesis [here]](https://bit.ly/3ZvdCZz).
+[^2]: You can check my doctoral thesis [here](https://bit.ly/3ZvdCZz).
 [^3]: I proposed to my partner in [Bushy Park](https://www.royalparks.org.uk/visit/parks/bushy-park).
 [^4]: I got the bug for [birdwatching](https://en.wikipedia.org/wiki/Birdwatching) during a walk through [Central Park](https://www.centralparknyc.org/).
