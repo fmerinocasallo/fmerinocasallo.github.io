@@ -11,7 +11,7 @@ Soy Fran, especialista en datos y tecnología. Mis raíces están en Zaragoza, p
 Diseño soluciones que no solo sean eficientes[^2] o eficaces[^3], sino verdaderamente efectivas[^4]. Me especializo en optimizar procesos y operaciones y extraer valor de los datos para impulsar decisiones estratégicas. Cuento con más de 9 años de experiencia en gestión y análisis de datos en entornos científicos y tecnológicos, transformando conocimiento en impacto tangible. Mi trayectoria abarca desde la bioinformática y la ingeniería biomédica hasta la analítica avanzada y el uso de datos a gran escala, incluyendo su procesamiento, análisis e interpretación. Además, sigo perfeccionando mis habilidades en arquitectura de software, gestión de la información, automatización de despliegues ([DevOps](https://es.wikipedia.org/wiki/DevOps)) y [computación en la nube](https://es.wikipedia.org/wiki/Computaci%C3%B3n_en_la_nube), con el objetivo de maximizar mi impacto y aportar más valor a personas, equipos y organizaciones.
 
 
-> :information_source: Si quieres saber **cómo trabajo**, puedes consultar [este enlace](https://drive.google.com/file/d/1M6LgQF-HaFR5iNxZfxfsjKip_gwWt0hy/view?usp=sharing), donde encontrarás algunos ejemplos con experiencias laborales pasadas y presentes.
+:information_source: *Si quieres saber **cómo trabajo**, puedes consultar [este enlace](https://drive.google.com/file/d/1M6LgQF-HaFR5iNxZfxfsjKip_gwWt0hy/view?usp=sharing), donde encontrarás algunos ejemplos con experiencias laborales pasadas y presentes.*
 
 # De dónde vengo y adónde voy :rewind: :fast_forward:
 
