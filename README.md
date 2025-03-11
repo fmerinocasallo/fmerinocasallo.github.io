@@ -41,10 +41,10 @@ Actualmente, sigo perfeccionando mis habilidades en gestión de datos y ampliand
 
 ## Mi enfoque de trabajo y cómo contribuyo :hammer_and_wrench:
 
-- [x] **Gestión de datos avanzada** para apoyar la toma de decisiones estratégicas.
-- [x] **Optimización de procesos y operaciones** para mejorar la eficiencia, automatizar flujos de trabajo y reducir costos.
-- [x] **Enfoque holístico** combinando investigación, modelado avanzado e implementación práctica en entornos tecnológicos e industriales.
-- [x] **Aprendizaje continuo** en nuevas técnicas, tecnologías y herramientas para generar un mayor impacto y aportar más valor.
+[x] **Gestión de datos avanzada** para apoyar la toma de decisiones estratégicas.
+[x] **Optimización de procesos y operaciones** para mejorar la eficiencia, automatizar flujos de trabajo y reducir costos.
+[x] **Enfoque holístico** combinando investigación, modelado avanzado e implementación práctica en entornos tecnológicos e industriales.
+[x] **Aprendizaje continuo** en nuevas técnicas, tecnologías y herramientas para generar un mayor impacto y aportar más valor.
 
 # Sobre mí :man_scientist: :man_technologist:
 
@@ -54,9 +54,9 @@ Esta combinación de influencias me ha dado una mentalidad analítica, una curio
 
 :information_source: *Me motiva enfrentar nuevos desafíos y aprender de manera continua para generar impacto y aportar valor de forma acelerada. A lo largo de mi trayectoria, he pasado de ser un completo desconocedor en ciertos campos a contribuir activamente en ellos. Por ejemplo:*
 
-- [x] ***Genética, análisis masivo de datos y alineamiento de secuencias**: [Publicación en la Conferencia Internacional de Bioinformática y Biomedicina](https://bit.ly/3TEFkPV).*
-- [x] ***Modelado predictivo de sistemas biológicos complejos en entornos de alto rendimiento y con optimización Bayesiana**: [Tesis doctoral en Ingeniería Biomédica](https://bit.ly/3ZvdCZz).*
-- [x] ***Estimación de la demanda con series temporales mediante modelos estadísticos y de inteligencia artificial**: [Contribución al desarrollo de  Darts, una de las librerías open source más utilizadas en este campo](https://bit.ly/4dd3HuU).*
+[x] ***Genética, análisis masivo de datos y alineamiento de secuencias**: [Publicación en la Conferencia Internacional de Bioinformática y Biomedicina](https://bit.ly/3TEFkPV).*
+[x] ***Modelado predictivo de sistemas biológicos complejos en entornos de alto rendimiento y con optimización Bayesiana**: [Tesis doctoral en Ingeniería Biomédica](https://bit.ly/3ZvdCZz).*
+[x] ***Estimación de la demanda con series temporales mediante modelos estadísticos y de inteligencia artificial**: [Contribución al desarrollo de  Darts, una de las librerías open source más utilizadas en este campo](https://bit.ly/4dd3HuU).*
 
 Disfruto trabajando en equipo y aprendiendo de personas con historias y experiencias únicas. He tenido la oportunidad de colaborar con profesionales de diversas disciplinas, lo que me ha permitido crecer, aportar valor y desarrollar soluciones en entornos multi- e interdisciplinarios.
 
@@ -92,10 +92,10 @@ Como una persona con una mentalidad de crecimiento, busco oportunidades para seg
 
 ## Mis fortalezas 🚀
 
-- [x] **Aprendizaje acelerado**: Capacidad demostrada para adaptarme a nuevas disciplinas, generar impacto y aportar valor en poco tiempo.
-- [x] **Colaboración interdisciplinar**: Experiencia trabajando con expertos de diversas áreas para desarrollar soluciones innovadoras.
-- [x] **Visión estratégica con atención al detalle**: Equilibrio entre perspectiva global y ejecución meticulosa.
-- [x] **Código limpio y mejores prácticas**: Desarrollo de software con altos estándares de calidad y documentación clara.
+[x] **Aprendizaje acelerado**: Capacidad demostrada para adaptarme a nuevas disciplinas, generar impacto y aportar valor en poco tiempo.
+[x] **Colaboración interdisciplinar**: Experiencia trabajando con expertos de diversas áreas para desarrollar soluciones innovadoras.
+[x] **Visión estratégica con atención al detalle**: Equilibrio entre perspectiva global y ejecución meticulosa.
+[x] **Código limpio y mejores prácticas**: Desarrollo de software con altos estándares de calidad y documentación clara.
 
 ***
 
